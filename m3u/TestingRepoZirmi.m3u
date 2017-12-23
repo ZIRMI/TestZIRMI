@@ -12,12 +12,5 @@ http://stream4.1malaysiaiptv.com/mylive/smil:tv2_all.smil/chunklist_w253669747_b
 #EXTINF:-1,Astro Awani
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8
 
-#EXTINF:-1, UK: NickToons
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1996.ts
-
-#EXTINF:-1,UK: Cartoon Network
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2007.ts
-
-#EXTINF:-1,USA: HBO3
-http://xyz.smartv.me:8000/live/nihatyesil/ODFpniWPh5/1004.ts
-
+#EXTINF:-1,Most Country
+http://xyz.smartv.me:8000/get.php?username=nihatyesil&password=ODFpniWPh5&type=m3u
