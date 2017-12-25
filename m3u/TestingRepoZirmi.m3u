@@ -12,5 +12,28 @@ http://stream4.1malaysiaiptv.com/mylive/smil:tv2_all.smil/chunklist_w253669747_b
 #EXTINF:-1,Astro Awani
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8
 
-#EXTINF:-1,Most Country
-http://xyz.smartv.me:8000/get.php?username=nihatyesil&password=ODFpniWPh5&type=m3u
+#EXTINF:-1,A&E HD
+http://www.unlimitedbroadcasts.net:25461/live/11999073/5076430459/7487.ts
+
+#EXTINF:-1, BLOOMBERG HD
+http://www.unlimitedbroadcasts.net:25461/live/11999073/5076430459/940.ts
+
+#EXTINF:-1,MAX HD
+http://www.unlimitedbroadcasts.net:25461/live/11999073/5076430459/7498.ts
+
+#EXTINF:-1,MAX PRIME HD
+http://www.unlimitedbroadcasts.net:25461/live/11999073/5076430459/7499.ts
+
+#EXTINF:-1,MAX UP HD
+http://www.unlimitedbroadcasts.net:25461/live/11999073/5076430459/7500.ts
+
+#EXTINF:-1,Nickelodeon
+http://78.26.128.94:8011/udp/225.1.1.107:1234
+
+
+
+
+
+
+
+
