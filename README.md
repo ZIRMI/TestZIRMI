@@ -1,2 +1,2 @@
 # TestZIRMI
-zirmi testing
+ZanTesting, not selling
