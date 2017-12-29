@@ -1,15 +1,17 @@
 #EXTM3U
+#EXTINF:-1,[COLOR green] --Done by: BloodSnipeX3--[/COLOR],[COLOR blue][I][B]--- 30.12.2017 ---[/B][/I][/COLOR]
+ 
 
-#EXTINF:-1,SCTV 2
+#EXTINF:-1,Indonesia, SCTV 2
 http://live3.indostreamingtv.com/live/tv2/index.m3u8
 
-#EXTINF:-1,SCTV 5
+#EXTINF:-1,Indonesia, SCTV 5
 http://live1.indostreamingtv.com/live/tv5/index.m3u8
 
-#EXTINF:-1,Malaysia TV2
+#EXTINF:-1,Malaysia, TV2
 http://stream4.1malaysiaiptv.com/mylive/smil:tv2_all.smil/chunklist_w253669747_b1000000_sleng.m3u8
 
-#EXTINF:-1,Astro Awani
+#EXTINF:-1,Malaysia, Astro Awani
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8
 
 #EXTINF:-1,A&E HD
@@ -17,55 +19,6 @@ http://www.unlimitedbroadcasts.net:25461/live/11999073/5076430459/7487.ts
 
 #EXTINF:-1, BLOOMBERG HD
 http://www.unlimitedbroadcasts.net:25461/live/11999073/5076430459/940.ts
-
-#EXTINF:-1,CA: SHOWCASE HD
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/17421.ts
-
-#EXTINF:-1,US: EPIX2 HD
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/5875.ts
-
-#EXTINF:-1,US: Showtime Family Zone HD
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/5884.ts
-
-#EXTINF:-1,US: Showtime HD
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3670.ts
-
-#EXTINF:-1,US: Cinemax Thrillermax HD
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3679.ts
-
-#EXTINF:-1,US: Cinemax HD
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/1394.ts
-
-#EXTINF:-1,UK: SKY MOVIES ACTION
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/1348.ts
-
-#EXTINF:-1,UK: Sky Movies Sci-Fi and Horror HD
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3393.ts
-
-#EXTINF:-1,UK: Sky Hits HD
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/1354.ts
-
-#EXTINF:-1,US: Starz Kids & Family HD
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/6852.ts
-
-#EXTINF:-1,UK: SKY MOVIES PREMIERE
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/1355.ts
-
-#EXTINF:-1,UK: SKY MOVIES FAMILY
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/1352.ts
-
-#EXTINF:-1,UK: Sky Movies Greats
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/1353.ts
-
-#EXTINF:-1,UK: Sky Movies Disney
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/1350.ts
-
-#EXTINF:-1,UK: Sky Movies Showcase
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3142.ts
-
-#EXTINF:-1,UK: Sky Movies Premier Plus
-
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3407.ts
 
 #EXTINF:-1,MAX HD
 http://www.unlimitedbroadcasts.net:25461/live/11999073/5076430459/7498.ts
@@ -76,120 +29,127 @@ http://www.unlimitedbroadcasts.net:25461/live/11999073/5076430459/7499.ts
 #EXTINF:-1,MAX UP HD
 http://www.unlimitedbroadcasts.net:25461/live/11999073/5076430459/7500.ts
 
-#EXTINF:-1,US: HBO HD
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/1464.ts
+#EXTINF:-1,UK HD :  ITV ENCORE HD
+http://xports.ddns.net:25461/live/beast/beast/180.ts
 
-#EXTINF:-1,US: HBO 2 HD
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/2444.ts
+#EXTINF:-1,UK HD :  LIFETIME HD
+http://xports.ddns.net:25461/live/beast/beast/501.ts
 
-#EXTINF:-1,US: HBO Zone HD
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/1412.ts
+#EXTINF:-1,UK HD :  MORE 4 HD
+http://xports.ddns.net:25461/live/beast/beast/500.ts
 
-#EXTINF:-1,US: HBO Comedy HD
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/5879.ts
+#EXTINF:-1,UK HD :  SKY ARTS HD
+http://xports.ddns.net:25461/live/beast/beast/499.ts
 
-#EXTINF:-1,US: HBO Signature HD
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/5880.ts
+#EXTINF:-1,UK HD :  SKY SPORTS FHD PREMIER LEAGUE
+http://xports.ddns.net:25461/live/beast/beast/497.ts
 
-#EXTINF:-1,US: HBO Family HD
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/1411.ts
+#EXTINF:-1,UK HD : ANIMAL PLANET HD
+http://xports.ddns.net:25461/live/beast/beast/491.ts
 
-#EXTINF:-1,Nickelodeon
-http://78.26.128.94:8011/udp/225.1.1.107:1234
+#EXTINF:-1,UK HD : BOX NATION HD
+http://xports.ddns.net:25461/live/beast/beast/484.ts
 
-#EXTINF:-1,UK: Cbeebies HD
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3131.ts
+#EXTINF:-1,UK HD : BT ESPN HD
+http://xports.ddns.net:25461/live/beast/beast/483.ts
 
-#EXTINF:-1,UK: Baby TV
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3188.ts
+#EXTINF:-1,UK HD : CARTOON NETWORK HD
+http://xports.ddns.net:25461/live/beast/beast/471.ts
 
-#EXTINF:-1,US: Boomerang HD
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/2425.ts
+#EXTINF:-1,UK HD : CI HD (crime and investigation)
+http://xports.ddns.net:25461/live/beast/beast/467.ts
 
-#EXTINF:-1,US: Disney Jr HD
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/2427.ts
+#EXTINF:-1,UK HD : COMEDY CENTRAL HD
+http://xports.ddns.net:25461/live/beast/beast/464.ts
 
-#EXTINF:-1,US: Nicktoons HD
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/1427.ts
+#EXTINF:-1,UK HD : DISNEY CHANNEL HD
+http://xports.ddns.net:25461/live/beast/beast/461.ts
 
-#EXTINF:-1,US: Cartoon Network HD
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/1391.ts
+#EXTINF:-1,UK HD : DISNEY JUNIOR HD
+http://xports.ddns.net:25461/live/beast/beast/460.ts
 
-#EXTINF:-1,US: WWE HD
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3653.ts
+#EXTINF:-1,UK HD : DISNEY XD HD
+http://xports.ddns.net:25461/live/beast/beast/459.ts
 
-#EXTINF:-1,US: Fight Network
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/15167.ts
+#EXTINF:-1,UK : BABY TV
+http://xports.ddns.net:25461/live/beast/beast/210.ts
 
-#EXTINF:-1,US: Fight Network World HD
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/2958.ts
+#EXTINF:-1,UK : NICK JR TOO
+http://xports.ddns.net:25461/live/beast/beast/302.ts
 
-#EXTINF:-1,UK: BoxNation HD
+#EXTINF:-1,UK : Nickelodeon
+http://xports.ddns.net:25461/live/beast/beast/299.ts
 
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/12355.ts
+#EXTINF:-1,UK : Nicktoons
+http://xports.ddns.net:25461/live/beast/beast/300.ts
 
-#EXTINF:-1,US: Bein Sports 1
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/15178.ts
+#EXTINF:-1,UK HD : MTV HD
+http://xports.ddns.net:25461/live/beast/beast/442.ts
 
-#EXTINF:-1,US: Eleven Sports Network HD
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/5886.ts
+#EXTINF:-1,UK HD : MTV LIVE HD
+http://xports.ddns.net:25461/live/beast/beast/441.ts
 
-#EXTINF:-1,UK: Animal Planet HD
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/1308.ts
+#EXTINF:-1,UK HD : SKY MOVIES ACTION HD
+http://xports.ddns.net:25461/live/beast/beast/426.ts
 
-#EXTINF:-1,UK: Discovery Channel HD
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/2066.ts
+#EXTINF:-1,UK HD : SKY MOVIES COMEDY HD
+http://xports.ddns.net:25461/live/beast/beast/425.ts
 
-#EXTINF:-1,UK: MTV HD
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/1335.ts
+#EXTINF:-1,UK HD : SKY MOVIES DISNEY HD
+http://xports.ddns.net:25461/live/beast/beast/424.ts
 
-#EXTINF:-1,MTV Hits.
-http://163.172.19.242:80/live/555555555/555555555/9448.m3u8
+#EXTINF:-1,UK HD : SKY MOVIES HITS HD
+http://xports.ddns.net:25461/live/beast/beast/420.ts
 
-#EXTINF:-1,MTV Dance FHD
-http://163.172.19.242:80/live/555555555/555555555/587.m3u8
+#EXTINF:-1,UK HD : SKY MOVIES PREMIER HD
+http://xports.ddns.net:25461/live/beast/beast/419.ts
 
-#EXTINF:-1,UK: Challenge
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3443.ts
+#EXTINF:-1,UK HD : SKY MOVIES SCI-FI/HORROR HD
+http://xports.ddns.net:25461/live/beast/beast/418.ts
 
-#EXTINF:-1,UK: DMAX
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3195.ts
+#EXTINF:-1,UK HD : SKY MOVIES SELECT HD
+http://xports.ddns.net:25461/live/beast/beast/417.ts
 
-#EXTINF:-1,UK: Movies4men
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3422.ts
+#EXTINF:-1,UK HD : SKY MOVIES THRILLER HD
+http://xports.ddns.net:25461/live/beast/beast/416.ts
 
-#EXTINF:-1,UK: SONY SET MAX
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3421.ts
+#EXTINF:-1,UK HD : SKY SPORTS HD MAIN EVENT
+http://xports.ddns.net:25461/live/beast/beast/404.ts
 
-#EXTINF:-1,UK: ZEE TV
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3182.ts
+#EXTINF:-1,UK HD : SYFY HD
+http://xports.ddns.net:25461/live/beast/beast/401.ts
 
-#EXTINF:-1,UK: ZEE CINEMA
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3186.ts
+#EXTINF:-1,UK : SONY MOVIES
+http://xports.ddns.net:25461/live/beast/beast/250.ts
 
-#EXTINF:-1,UK: Sony SAB
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3140.ts
+#EXTINF:-1,UK : STAR PLUS
+http://xports.ddns.net:25461/live/beast/beast/244.ts
 
-#EXTINF:-1,UK: True Crime
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3135.ts
+#EXTINF:-1,UK : TRU TV
+http://xports.ddns.net:25461/live/beast/beast/267.ts
 
-#EXTINF:-1,UK: Real Lives
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3392.ts
+#EXTINF:-1,UK : ZEE CINEMA
+http://xports.ddns.net:25461/live/beast/beast/222.ts
 
-#EXTINF:-1,UK: Crime & Investigation
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3196.ts
+#EXTINF:-1,UK : ZEE TV
+http://xports.ddns.net:25461/live/beast/beast/223.ts
 
-#EXTINF:-1,US: Nat Geo Wild HD
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/1469.ts
+#EXTINF:-1,USA : Cinemax Action Max HD (NL)
+http://xports.ddns.net:25461/live/beast/beast/107.ts
 
-#EXTINF:-1,US: Lifetime Movies
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/15179.ts
+#EXTINF:-1,USA : CINEMAX HD (NL)
+http://xports.ddns.net:25461/live/beast/beast/140.ts
 
-#EXTINF:-1,US: History Channel HD
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/1466.ts
+#EXTINF:-1,USA : HBO FAMILY HD (NL)
+http://xports.ddns.net:25461/live/beast/beast/160.ts
 
-#EXTINF:-1,US: TruTV HD
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/1856.ts
+#EXTINF:-1,USA : HBO Zone HD (NL)
+http://xports.ddns.net:25461/live/beast/beast/154.ts
 
-#EXTINF:-1,CA: ABC HD
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/17427.ts
+#EXTINF:-1,CA : SHOWCASE HD
+http://xports.ddns.net:25461/live/beast/beast/81.ts
+
+
+
+
+
