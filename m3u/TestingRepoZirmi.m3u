@@ -1,14 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1,Done by:  BloodSnipeX3 (30.12.2017) Latest!
+#EXTINF:-1,BloodSnipeX3 (30.12.2017) Latest!
+
+#EXTINF:-1,Makkah Live
+http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel7/1.m3u8
  
-#EXTINF:-1, Singapore, Channel5
+#EXTINF:-1,tvg-logo="https://www.google.com.sg/imgres?imgurl=http%3A%2F%2F2.bp.blogspot.com%2F_QgtbofpGFWQ%2FTFwDzryt7VI%2FAAAAAAAAAWE%2FXGGkqgl-IeY%2Fs1600%2Fchannel-5-logo.jpg&imgrefurl=http%3A%2F%2Fdaromad.ga%2Fnecic%2Fsingapore-channel-5-live-streaming-1533.php&docid=EiSLKkiNCr_aPM&tbnid=FGhsPFehCJ4maM%3A&vet=10ahUKEwjk0piE-LDYAhWBuY8KHbV4C1oQMwh2KCIwIg..i&w=948&h=492&bih=675&biw=1366&q=channel%205%20live&ved=0ahUKEwjk0piE-LDYAhWBuY8KHbV4C1oQMwh2KCIwIg&iact=mrc&uact=8" Singapore, Channel5
 https://tglch5h-i.akamaihd.net/hls/live/566520/pcweb/04.m3u8
 
-#EXTINF:-1, Singapore, Channel8
+#EXTINF:-1,Singapore, Channel8
 https://tglch8h-i.akamaihd.net/hls/live/566550/pcweb/04.m3u8
 
-#EXTINF:-1, Singapore, Suria
+#EXTINF:-1,Singapore, Suria
 https://tglsuriah-i.akamaihd.net/hls/live/566541/pcweb/04.m3u8
 
 #EXTINF:-1,Malaysia, TV2
@@ -25,3 +28,6 @@ http://live1.indostreamingtv.com/live/tv5/index.m3u8
 
 #EXTINF:-1,AL JAZEERA ENGLISH LIVE
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index783.m3u8
+
+#EXTINF:-1,HBO
+https://freeuscache1.streamlive.to/live/z28ie9oqoku4qoy/rtmp/z28ie9oqoku4qoy/chunks.m3u8?nimblesessionid=803682&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzAvMjAxNyAxMjozOTozNSBBTSZoYXNoX3ZhbHVlPTBnSFZ5QmxhV0hpMXNvQlY0K0lUb2c9PSZ2YWxpZG1pbnV0ZXM9MzAmc3RybV9sZW49MjA=
