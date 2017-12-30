@@ -1,31 +1,45 @@
 #EXTM3U
 
-#EXTINF:-1,<span style="color:red">Done by Z.I.R.M.I</span>
 
 #EXTINF:-1,Makkah Live
 http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel7/1.m3u8
  
-#EXTINF:-1,Singapore, Channel5
+#EXTINF:-1,[COLOR red]OFF[/COLOR], CHANNEL 5
 
-#EXTINF:-1,Singapore, Channel8
+#EXTINF:-1,[COLOR green]ON[/COLOR], CHANNEL 8
 https://tglch8h-i.akamaihd.net/hls/live/566550/pcweb/04.m3u8
 
-#EXTINF:-1,Singapore, Suria
+#EXTINF:-1,[COLOR red]OFF[/COLOR], SURIA
 
 
-#EXTINF:-1,Malaysia, TV2
+#EXTINF:-1,[COLOR green]ON[/COLOR], MALAYSIA - TV2
 http://stream4.1malaysiaiptv.com/mylive/smil:tv2_all.smil/chunklist_w253669747_b1000000_sleng.m3u8
 
-#EXTINF:-1,Malaysia, Astro Awani
+#EXTINF:-1,[COLOR green]ON[/COLOR], MALAYSIA - ASTRO AWANI
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8
 
-#EXTINF:-1,Indonesia, SCTV 2
+#EXTINF:-1,[COLOR green]ON[/COLOR], INDONESIA - SCTV 2
 http://live3.indostreamingtv.com/live/tv2/index.m3u8
 
-#EXTINF:-1,Indonesia, SCTV 5
+#EXTINF:-1,[COLOR green]ON[/COLOR], INDONESIA - SCTV 5
 http://live1.indostreamingtv.com/live/tv5/index.m3u8
 
-#EXTINF:-1,AL JAZEERA ENGLISH LIVE
+#EXTINF:-1,[COLOR green]ON[/COLOR], AL JAZEERA ENGLISH LIVE
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index783.m3u8
 
-#EXTINF:-1,HBO
+#EXTINF:-1,[COLOR RED]OFF[/COLOR], HBO
+
+
+#EXTINF:-1,[COLOR green]ON[/COLOR], WHOH TV
+http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
+
+#EXTINF:-1,[COLOR green]ON[/COLOR], MIAMI TV
+http://oflash.dfw.swagit.com/live/miamibeachfl/smil:std-16x9-1-a/chunklist_w1459206316_b878000.m3u8
+
+
+
+
+
+
+
+
