@@ -1,2 +1,2 @@
-# TestZIRMI
-ZanTesting, not selling
+#ZIRMI
+Do Your Own, not selling
