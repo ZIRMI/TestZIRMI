@@ -1,182 +1,85 @@
-#EXTM3U
-
-
+#EXTM3U#EXTINF:-1,[B][COLOR blue]~ZIRMI~[/COLOR][/B]
+http://wpc.55d6d.deltacdn.net/3055D6D/teb002/.m3u8
 #EXTINF:-1,Makkah Live
 http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel7/1.m3u8
- 
 #EXTINF:-1,CHANNEL 5
-
 #EXTINF:-1,CHANNEL 8
 https://tglch8h-i.akamaihd.net/hls/live/566550/pcweb/04.m3u8
-
 #EXTINF:-1,SURIA
-
-
 #EXTINF:-1,MALAYSIA:TV2
 http://stream4.1malaysiaiptv.com/mylive/smil:tv2_all.smil/chunklist_w253669747_b1000000_sleng.m3u8
-
 #EXTINF:-1,MALAYSIA:ASTRO AWANI
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8
-
 #EXTINF:-1,INDONESIA:SCTV 2
 http://live3.indostreamingtv.com/live/tv2/index.m3u8
-
 #EXTINF:-1,INDONESIA:SCTV 5
 http://live1.indostreamingtv.com/live/tv5/index.m3u8
-
 #EXTINF:-1,AL JAZEERA ENGLISH LIVE
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index783.m3u8
-
-#EXTINF:-1,HBO
-
-
-#EXTINF:-1,WHOH TV
-http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
-
-#EXTINF:-1,MIAMI TV
-http://oflash.dfw.swagit.com/live/miamibeachfl/smil:std-16x9-1-a/chunklist_w1459206316_b878000.m3u8
-
-#EXTINF:-1,UK: ZEE TV
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3788.ts
-
-#EXTINF:-1,UK: ZEE CINEMA
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3789.ts
-
-#EXTINF:-1,UK:Star Plus
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3781.ts
-
-#EXTINF:-1,UK:STAR GOLD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3782.ts
-
-#EXTINF:-1,UK:SONY TV HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3783.ts
-
-#EXTINF:-1,UK:B4U MOVIE
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3786.ts
-
-#EXTINF:-1,UK:SKY SPORTS MIX HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2756.ts
-
-#EXTINF:-1,UK:SKY SPORTS 5 PREMIER LEAGUE
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2094.ts
-
-#EXTINF:-1,UK:SKY SPORTS PREMIER LEAGUE
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1339.ts
-
-#EXTINF:-1,UK:BOX-NATION HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1893.ts
-
-#EXTINF:-1,UK:SKY CINEMA ACTION & ADVENTURE
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2754.ts
-
-#EXTINF:-1,UK:SKY MOVIE SHOWCASE
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1983.ts
-
-#EXTINF:-1,UK:SKY MOVIES SELECT HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1350.ts
-
-#EXTINF:-1,UK:SKY MOVIES SCI-HORROR HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2411.ts
-
-#EXTINF:-1,UK:SKY MOVIE PREMIER HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1351.ts
-
-#EXTINF:-1,UK:SKY MOVIES MODERN GREAT HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2412.ts
-
-#EXTINF:-1,UK:SKY MOVIES FAMILY HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1352.ts
-
-#EXTINF:-1,UK:SKY MOVIES COMEDY HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1354.ts
-
-#EXTINF:-1,UK:NICKTOONS
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1996.ts
-
-#EXTINF:-1,UK:NICK JUNIOR HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1997.ts
-
-#EXTINF:-1,UK:DISNEY JUNIOR HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1357.ts
-
-#EXTINF:-1,UK:DISNEY CHANNEL HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1358.ts
-
-#EXTINF:-1,UK:CARTOON NETWORK
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2007.ts
-
-#EXTINF:-1,UK:BOOMERANG
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2399.ts
-
-#EXTINF:-1,UK:CBEEBIES HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2162.ts
-
-#EXTINF:-1,UK:BABY TV
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2164.ts
-
-#EXTINF:-1,UK:NAT GEO WILD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1360.ts
-
-#EXTINF:-1,UK:ANIMAL PLANET HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1361.ts
-
-#EXTINF:-1,UK:DISCOVERY SCIENCE HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1362.ts
-
-#EXTINF:-1,UK:NAT GEOGRAPHIC HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1932.ts
-
-#EXTINF:-1,UK:MTV HITS
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2005.ts
-
-#EXTINF:-1,UK:COMEDY CENTRAL
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2003.ts
-
-#EXTINF:-1,UK:DISCOVERY INVESTIGATION HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1891.ts
-
-#EXTINF:-1,UK:SKY CINEMA CRIME & THRILLER HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2198.ts
-
-#EXTINF:-1,US:HBO SIGNATURE HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3320.ts
-
-#EXTINF:-1,US:HBO COMEDY HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3356.ts
-
-#EXTINF:-1,US:STARZ EDGE
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3358.ts
-
-#EXTINF:-1,US:CINEMAX ACTION MAX EAST
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/3359.ts
-
-#EXTINF:-1,US:SYFY HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2654.ts
-
-#EXTINF:-1,US:UNIVERSAL CHANNEL
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/2564.ts
-
-#EXTINF:-1,US:WWE NETWORK HD
-http://super1.ideaiptv.com:8000/live/Bhakjd/515533/1405.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1,[B][COLOR red]~INDIAN~[/COLOR][/B]
+http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/4426.ts
+#EXTINF:-1,HINDI Zee TV HD
+http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/4476.ts
+#EXTINF:-1,HINDI Colors HD
+http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/4483.ts
+#EXTINF:-1,HINDI Zee Smile
+http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/4477.ts
+#EXTINF:-1,HINDI Star Plus
+http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/4478.ts
+#EXTINF:-1,HINDI Sab TV
+http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/4480.ts
+#EXTINF:-1,HINDI Zoom
+http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/4452.ts
+#EXTINF:-1,HINDI Zee Cinema
+http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/4441.ts
+#EXTINF:-1,HINDI Zee Action
+http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/4433.ts
+#EXTINF:-1,HINDI STAR GOLD
+http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/4437.ts
+#EXTINF:-1,HINDI Music India
+http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/4447.ts
+#EXTINF:-1,[B][COLOR green]~USA~[/COLOR][/B]
+http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/5122.ts
+#EXTINF:-1,USA: SHOW TIME
+http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/3764.ts
+#EXTINF:-1,US_A&E HD
+http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/14985.ts
+#EXTINF:-1,US_Amazing Discoveries HD
+http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/14977.ts
+#EXTINF:-1,US_AFN Sport 1
+http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/14979.ts
+#EXTINF:-1,US_AFN Sport 2
+http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/14978.ts
+#EXTINF:-1,US_beINSports HD
+http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/14972.ts
+#EXTINF:-1,US_CineMax 5 StarMax
+http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/14955.ts
+#EXTINF:-1,US_CineMax ActionMax East
+http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/14952.ts
+#EXTINF:-1,US_Cinemax More HD
+http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/14950.ts
+#EXTINF:-1,US_Discovery Science HD
+http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/14936.ts
+#EXTINF:-1,US: Cinemax
+http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/5094.ts
+#EXTINF:-1,US_HBO
+http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/14892.ts
+#EXTINF:-1,US_HBO Comedy HD
+http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/14891.ts
+#EXTINF:-1,US_HBO Zone
+http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/14885.ts
+#EXTINF:-1,US_truTV HD
+http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/14807.ts
+#EXTINF:-1,US_WWE
+http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/14796.ts
+#EXTINF:-1,US: Animal Planet
+http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/5101.ts
+#EXTINF:-1,US: Fight Network
+http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/3219.ts
+#EXTINF:-1,US_WWE HD
+http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/14795.ts
+#EXTINF:-1,US_UFC Fight Pass
+http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/14801.ts
 
 
 
