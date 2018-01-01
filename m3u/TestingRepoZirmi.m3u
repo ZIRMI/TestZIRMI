@@ -1,4 +1,5 @@
-#EXTM3U#EXTINF:-1,[B][COLOR blue]~ZIRMI~[/COLOR][/B]
+#EXTM3U
+#EXTINF:-1,[B][COLOR blue]ZIRMI[/COLOR][/B]
 http://wpc.55d6d.deltacdn.net/3055D6D/teb002/.m3u8
 #EXTINF:-1,Makkah Live
 http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel7/1.m3u8
@@ -80,9 +81,32 @@ http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/3219.ts
 http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/14795.ts
 #EXTINF:-1,US_UFC Fight Pass
 http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/14801.ts
-
-
-
+#EXTINF:-1,NL: Sport1 Extra 1 NL
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1041.ts
+#EXTINF:-1,NL: Veronica HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1042.ts
+#EXTINF:-1,NL: 24 Kitchen HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1043.ts
+#EXTINF:-1,NL: MTV HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1044.ts
+#EXTINF:-1,NL: HBO 2
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/797.ts
+#EXTINF:-1,NL: FILM 1 Action HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/546.ts
+#EXTINF:-1,NL: FILM 1 Sundance HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/789.ts
+#EXTINF:-1,NL: FILM 1 Premiere HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/788.ts
+#EXTINF:-1,NL: Film1 Comedy
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/790.ts
+#EXTINF:-1,NL: History HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/550.ts
+#EXTINF:-1,NL: TLC HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/805.ts
+#EXTINF:-1,NL: Disney HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/804.ts
+#EXTINF:-1,NL: Fox HD
+http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/806.ts
 
 
 
