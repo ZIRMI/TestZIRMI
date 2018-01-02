@@ -44,7 +44,7 @@ http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/5122.ts
 #EXTINF:-1,USA: SHOW TIME
 http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/3764.ts
 #EXTINF:-1,US_A&E HD
-http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/14985.ts
+http://162.218.64.11:25461/live/X0yR82Fsp6/CvnmLOGi2f/142604.m3u8?token=SEddVEpaQQ4WB1BTB1ECVVMHAgMABFcEVlpWUlMGVgUHAQ1QCVdXAwVHThBEQBRVU1o8C1MRWQQBC1dSUBkSQkAAR2pQVkEOFldTAAEDRBwQQwoPUhFZBRkbEQsAFwoVAlUBAgwQTxZRHRZXRVoHXG1TBhReUAYXD1cUDggZElhdOlFQVFMNUBZfQAIVGERZQUdBWBV+GmdQSRQACFxTF38MWFxNVwcWGEcAW0NGB0RXFVlABAtXDBcVQwELQF5DQRwXDxthJBYYRwdKQ1EIQ1tYDUANEQ4GQAFDTkZcQ2hBAEZBS1cCWVEXQAgVBEQcEFoCGmhQDFtbXAIWDVpeRBFfFwQbHkFZWwsLRlhGOUBbU0FYFQpaAgQbHA==
 #EXTINF:-1,US_Amazing Discoveries HD
 http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/14977.ts
 #EXTINF:-1,US_AFN Sport 1
@@ -81,32 +81,10 @@ http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/3219.ts
 http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/14795.ts
 #EXTINF:-1,US_UFC Fight Pass
 http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/14801.ts
-#EXTINF:-1,NL: Sport1 Extra 1 NL
-http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1041.ts
-#EXTINF:-1,NL: Veronica HD
-http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1042.ts
-#EXTINF:-1,NL: 24 Kitchen HD
-http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1043.ts
-#EXTINF:-1,NL: MTV HD
-http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/1044.ts
-#EXTINF:-1,NL: HBO 2
-http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/797.ts
-#EXTINF:-1,NL: FILM 1 Action HD
-http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/546.ts
-#EXTINF:-1,NL: FILM 1 Sundance HD
-http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/789.ts
-#EXTINF:-1,NL: FILM 1 Premiere HD
-http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/788.ts
-#EXTINF:-1,NL: Film1 Comedy
-http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/790.ts
-#EXTINF:-1,NL: History HD
-http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/550.ts
-#EXTINF:-1,NL: TLC HD
-http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/805.ts
-#EXTINF:-1,NL: Disney HD
-http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/804.ts
-#EXTINF:-1,NL: Fox HD
-http://master.magiptv.net:89/live/portalmaxtv/naN8zmkUP0/806.ts
 
-
-
+#EXTINF:-1,: Fox HD
+http://162.218.64.11:25461/live/X0yR82Fsp6/CvnmLOGi2f/21071.m3u8?token=SEddVEpaQQ4WVgMGAQIEU1MEAQMDCwYDVApUBgEBBgNXVQABCgVbVg1HThBEQBRVU1o8C1MRWQcECVZTSBdFRFYXalxdEFkWBlRQBAAWShJGXg4HFQlTGRdJCAZGDxIOBlUNFxUQBkxAABBcVlg5VFdBCgFSEVlbQFUNTkZaXmhXAFhUV1ZBDhZVQB4VXRVAEA1BL05hBkVAWw0LBxV8Xl4MQVBdEE8WVgwWQFZAAxIIFVBaDgFBGRdaDhcKQUJOEV8XZn4QTxZRHRZXWUcPX1wVWUBaABYNFxVDCxdqQlJAEUdQWF8GRhZfQAIVGERdU088AVhdDVBWTQgNCkYSDRFUFxkbXwxaXRENQGhED1QQDUFXAwVSF0g=
+#EXTINF:-1,: BOX NATION HD
+http://162.218.64.30:25461/live/X0yR82Fsp6/CvnmLOGi2f/21146.m3u8?token=SEddVEpaQQ4WBFdWAlFQAFFWVFJTV1AEA1hXU1BRUw4KA1cHXwZUDVdHThBEQBRVU1o8C1MRWQcECFVUSBdFRFYXalxdEFkWBlRQBAAWShJGXg4HFQlTGRdJCAZGDxIOA1UNBhseQVFMEQdAWVUKb1ZSFQtUVkEPW0wNDkgXX1lsAVBYWFwHFg5HUhAbFg9DQhVZQHpKMVBFTAMODVYQe1oIXEFcVkEYFgcLRkVVElUQDUFWAwJTFxkbAg0RW0RFSkcPF2p1QRgWABpGUloVWV1ZQVgVXlBADRtNQA1Gb0VWFkFHXFMOUUZHWBAHFkoSX1YbPVRcDVtQWhULC1tDFQlHBBcVEA5bWgwWXUVrFllWFVlABgdbBgwLQx8=
+#EXTINF:-1,: BT SPORT ESPN
+http://162.218.64.30:25461/live/X0yR82Fsp6/CvnmLOGi2f/21184.m3u8?token=SEddVEpaQQ4WXQdUDwZXBARSUVcAAFFTDQ1TUVVXB1MGBwBTDwoHUQNHThBEQBRVU1o8C1MRWQcECFlWSBdFRFYXalxdEFkWBlRQBAAWShJGXg4HFQlTGRdJCAZGDxIFBlMCBBseQVFMEQdAWVUKb1ZSFQtUVkEPW0wNDkgXX1lsAVBYWFwHFg5HUhAbFg9DQhVZQHpKMVBFTAMODVYQe1oIXEFcVkEYFgcLRkVVElUQDUFaBgRBGRdaDhcKQUJOEV8XZn4QTxZRHRZXWUcPX1wVWUBaABYNFxVDCxdqQlJAEUdQWF8GRhZfQAIVGERdU088AVhdDVBWTQgNCkYSDRFUFxkbXwxaXRENQGhED1QQDUFTAwtVDAYbHA==
