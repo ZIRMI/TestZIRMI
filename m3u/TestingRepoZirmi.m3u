@@ -55,130 +55,229 @@ http://103.233.193.228/stream/totnew.php?channel_id=2d5711cd22484490bd8a50bf990a
 http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/5122.ts
 #EXTINF:-1,[B][COLOR yellow]~UPDATES~[/COLOR][/B]
 http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/5122.ts
-#EXTINF:-1 tvg-ID="" tvg-na             b ”Kê  ê  t/hãP³4—ö"¯€ EÜþC@ 0	š2IKÀ¨< 
-5-¤·¨ˆÆHÞ°P wa>  me="Only Fools And Horses 24/7" tvg-logo="" group-title="24/7",Only Fools And Horses 24/7
+#EXTINF:-1 tvg-ID="" tvg-name="Only Fools And Horses 24/7" tvg-logo="" group-title="24/7",Only Fools And Horses 24/7
+
 http://primetvmedia.com:10/live/Stallion/Stallion/6347.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="Peppa Pig 24/7" tvg-logo="" group-title="24/7",Peppa Pig 24/7
+
 http://primetvmedia.com:10/live/Stallion/Stallion/4789.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="Adventure time 24/7" tvg-logo="" group-title="24/7",Adventure time 24/7
+
 http://primetvmedia.com:10/live/Stallion/Stallion/7644.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="Gavin & Stacy 24/7" tvg-logo="" group-title="24/7",Gavin & Stacy 24/7
+
 http://primetvmedia.com:10/live/Stallion/Stallion/7662.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="Rugrats 24/7" tvg-logo="" group-title="24/7",Rugrats 24/7
+
 http://primetvmedia.com:10/live/Stallion/Stallion/7661.ts
+
 #EXTINF:-1 tvg-ID="BBC One Lon" tvg-name="BBC ONE" tvg-logo="http://prime-tv.live/LOGOS/BBC%20One%20SD.png" group-title="Uk Entertainment",BBC ONE
+
 http://primetvmedia.com:10/live/Stallion/Stallion/1.ts
+
 #EXTINF:-1 tvg-ID="BBC One NI" tvg-name="BBC Ireland" tvg-logo="" group-title="Uk Entertainment",BBC Ireland
+
 http://primetvmedia.com:10/live/Stallion/Stallion/4615.ts
+
 #EXTINF:-1 tvg-ID="BBC One Scot" tvg-name="BBC Scotland" tvg-logo="" group-title="Uk Entertainment",BBC Scotland
+
 http://primetvmedia.com:10/live/Stallion/Stallion/4614.ts
-#EXTINF:-1 tvg-ID="BBC Two Eng" tvg-name="BBC TWO" tvg-logo="http://prime-tv.live/LOGOS/BBC%20Two%20SD.png" group-title="Uk Entertainment"             b ”Kê  ê  t/hãP³4—ö"¯€ EÜþD@ 0	™2IKÀ¨< 
-5-¤·®<ÆHÞ°P wš"  ,BBC TWO
+
+#EXTINF:-1 tvg-ID="BBC Two Eng" tvg-name="BBC TWO" tvg-logo="http://prime-tv.live/LOGOS/BBC%20Two%20SD.png" group-title="Uk Entertainment",BBC TWO
+
 http://primetvmedia.com:10/live/Stallion/Stallion/2.ts
+
 #EXTINF:-1 tvg-ID="ITV" tvg-name="ITV 1" tvg-logo="http://prime-tv.live/LOGOS/ITV1.png" group-title="Uk Entertainment",ITV 1
+
 http://primetvmedia.com:10/live/Stallion/Stallion/3.ts
+
 #EXTINF:-1 tvg-ID="Channel 4 HD" tvg-name="CHANNEL 4" tvg-logo="http://prime-tv.live/LOGOS/Channel%204.png" group-title="Uk Entertainment",CHANNEL 4
+
 http://primetvmedia.com:10/live/Stallion/Stallion/4.ts
+
 #EXTINF:-1 tvg-ID="Channel 5" tvg-name="CHANNEL 5" tvg-logo="http://prime-tv.live/LOGOS/Channel%205.png" group-title="Uk Entertainment",CHANNEL 5
+
 http://primetvmedia.com:10/live/Stallion/Stallion/5.ts
+
 #EXTINF:-1 tvg-ID="My5" tvg-name="MY 5" tvg-logo="" group-title="TEST",MY 5
+
 http://primetvmedia.com:10/live/Stallion/Stallion/3110.ts
+
 #EXTINF:-1 tvg-ID="Sky1" tvg-name="SKY ONE" tvg-logo="http://prime-tv.live/LOGOS/Sky%201.png" group-title="Uk Entertainment",SKY ONE
+
 http://primetvmedia.com:10/live/Stallion/Stallion/9.ts
+
 #EXTINF:-1 tvg-ID="Sky2" tvg-name="SKY TWO" tvg-logo="http://prime-tv.live/LOGOS/Sky%202.png" group-title="Uk Entertainment",SKY TWO
+
 http://primetvmedia.com:10/live/Stallion/Stallion/10.ts
+
 #EXTINF:-1 tvg-ID="BBC Four" tvg-name="BBC FOUR" tvg-logo="http://prime-tv.live/LOGOS/BBC%20FOUR.png" group-title="Uk Entertainment",BBC FOUR
+
 http://primetvmedia.com:10/live/Stallion/Stallion/16.ts
+
 #EXTINF:-1 tvg-ID="Blaze" tvg-name="BLAZE" tvg-logo="" group-title="TEST",BLAZE
-http:       X       b 0”K6   6   4—ö"¯€t/hãP³ E  (/Þ@ €»À¨<2IK5- 
-ÆHÞ°¤·³ðPC8‚    X            b ù•Kê  ê  t/hãP³4—ö"¯€ EÜþE@ 0	˜2IKÀ¨< 
-5-¤·³ðÆHÞ°P wéž  //primetvmedia.com:10/live/Stallion/Stallion/3109.ts
+http://primetvmedia.com:10/live/Stallion/Stallion/3109.ts
+
 #EXTINF:-1 tvg-ID="Sky Living HD" tvg-name="SKY LIVING" tvg-logo="http://prime-tv.live/LOGOS/Sky%20Living.png" group-title="Uk Entertainment",SKY LIVING
+
 http://primetvmedia.com:10/live/Stallion/Stallion/15.ts
+
 #EXTINF:-1 tvg-ID="Sky Atlantic HD" tvg-name="SKY ATLANTIC" tvg-logo="http://solarwatchmen.com/Epg/logo's/Sky%20Atlantic.png" group-title="Uk Entertainment",SKY ATLANTIC
+
 http://primetvmedia.com:10/live/Stallion/Stallion/177.ts
+
 #EXTINF:-1 tvg-ID="Sky Arts HD" tvg-name="SKY ARTS" tvg-logo="http://prime-tv.live/LOGOS/Sky%20Arts%201.png" group-title="Uk Entertainment",SKY ARTS
+
 http://primetvmedia.com:10/live/Stallion/Stallion/11.ts
+
 #EXTINF:-1 tvg-ID="ITV2" tvg-name="ITV 2" tvg-logo="http://prime-tv.live/LOGOS/ITV%202.png" group-title="Uk Entertainment",ITV 2
+
 http://primetvmedia.com:10/live/Stallion/Stallion/22.ts
+
 #EXTINF:-1 tvg-ID="ITV3" tvg-name="ITV 3" tvg-logo="http://prime-tv.live/LOGOS/ITV%203.png" group-title="Uk Entertainment",ITV 3
+
 http://primetvmedia.com:10/live/Stallion/Stallion/23.ts
+
 #EXTINF:-1 tvg-ID="ITV4" tvg-name="ITV 4" tvg-logo="http://prime-tv.live/LOGOS/ITV%204.png" group-title="Uk Entertainment",ITV 4
+
 http://primetvmedia.com:10/live/Stallion/Stallion/24.ts
+
 #EXTINF:-1 tvg-ID="ITVBe" tvg-name="ITV Be" tvg-logo="http://solarwatchmen.com/Epg/logo's/ITV%20Be.png" group-title="Uk Entertainment",ITV Be
-http://primetvmedia.com:10/live/Stallion/Stallion/106.t       X       b –K6   6   4—ö"¯€t/hãP³ E  (/ß@ €ºÀ¨<2IK5- 
-ÆHÞ°¤·¹¤PC2Î    X            b ­‹Kê  ê  t/hãP³4—ö"¯€ EÜþF@ 0	—2IKÀ¨< 
-5-¤·¹¤ÆHÞ°P wœp  s
+
+http://primetvmedia.com:10/live/Stallion/Stallion/106.ts
+
 #EXTINF:-1 tvg-ID="ITV Encore" tvg-name="iTV ENCORE" tvg-logo="http://solarwatchmen.com/Epg/logo's/ITV%20Encore.png" group-title="Uk Entertainment",iTV ENCORE
+
 http://primetvmedia.com:10/live/Stallion/Stallion/105.ts
+
 #EXTINF:-1 tvg-ID="More4 HD" tvg-name="MORE4" tvg-logo="http://prime-tv.live/LOGOS/More4.png" group-title="Uk Entertainment",MORE4
+
 http://primetvmedia.com:10/live/Stallion/Stallion/32.ts
+
 #EXTINF:-1 tvg-ID="E4" tvg-name="E4" tvg-logo="http://prime-tv.live/LOGOS/E4.png" group-title="Uk Entertainment",E4
+
 http://primetvmedia.com:10/live/Stallion/Stallion/31.ts
+
 #EXTINF:-1 tvg-ID="ComedyCentHD" tvg-name="COMEDY CENTRAL UK" tvg-logo="http://solarwatchmen.com/Epg/logo's/Comedy%20Central.png" group-title="Uk Entertainment",COMEDY CENTRAL UK
+
 http://primetvmedia.com:10/live/Stallion/Stallion/119.ts
+
 #EXTINF:-1 tvg-ID="DMAX" tvg-name="DMAX" tvg-logo="" group-title="Uk Entertainment",DMAX
+
 http://primetvmedia.com:10/live/Stallion/Stallion/937.ts
+
 #EXTINF:-1 tvg-ID="5STAR" tvg-name="FIVE STAR" tvg-logo="http://solarwatchmen.com/Epg/logo's/5%20Star.png" group-title="Uk Entertainment",FIVE STAR
+
 http://primetvmedia.com:10/live/Stallion/Stallion/120.ts
+
 #EXTINF:-1 tvg-ID="5 USA" tvg-name="FIVE USA" tvg-logo="http://solarwatchmen.com/Epg/logo's/5%20USA.png" group-title="USA ENTERTAINMENT",FIVE USA
+
 http://primetvmedia.com:10/live/Stallion/Stallion/40.ts
-#EXTINF:-1 tvg-ID="Dave HD" tvg-name="DAVE" tvg-logo="http://prime-tv.live/LOGO             b XŒKê  ê  t/hãP³4—ö"¯€ EÜþG@ 0	–2IKÀ¨< 
-5-¤·¿XÆHÞ°P w—[  S/Dave.png" group-title="Uk Entertainment",DAVE
+
+#EXTINF:-1 tvg-ID="Dave HD" tvg-name="DAVE" tvg-logo="http://prime-tv.live/LOGOS/Dave.png" group-title="Uk Entertainment",DAVE
+
 http://primetvmedia.com:10/live/Stallion/Stallion/14.ts
+
 #EXTINF:-1 tvg-ID="GOLD" tvg-name="GOLD" tvg-logo="http://prime-tv.live/LOGOS/GOLD.png" group-title="Uk Entertainment",GOLD
+
 http://primetvmedia.com:10/live/Stallion/Stallion/13.ts
+
 #EXTINF:-1 tvg-ID="Universal HD" tvg-name="UNIVERSAL CHANNEL" tvg-logo="http://solarwatchmen.com/Epg/logo's/Universal%20Channel.png" group-title="Uk Entertainment",UNIVERSAL CHANNEL
+
 http://primetvmedia.com:10/live/Stallion/Stallion/178.ts
+
 #EXTINF:-1 tvg-ID="W HD" tvg-name="WATCH" tvg-logo="http://prime-tv.live/LOGOS/Watch.png" group-title="Uk Entertainment",WATCH
+
 http://primetvmedia.com:10/live/Stallion/Stallion/12.ts
+
 #EXTINF:-1 tvg-ID="alibi HD" tvg-name="ALIBI" tvg-logo="http://prime-tv.live/LOGOS/Alibi.png" group-title="Uk Entertainment",ALIBI
+
 http://primetvmedia.com:10/live/Stallion/Stallion/30.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="Grit tv" tvg-logo="" group-title="USA ENTERTAINMENT",Grit tv
+
 http://primetvmedia.com:10/live/Stallion/Stallion/4507.ts
+
 #EXTINF:-1 tvg-ID="BRAVO! HD" tvg-name="BRAVO" tvg-logo="http://prime-tv.live/LOGOS/Bravo.png" group-title="USA ENTERTAINMENT",BRAVO
+
 http://primetvmedia.com:10/live/Stallion/Stallion/25.ts
+
 #EXTINF:-1 tvg-ID="CBS Action" tvg-name="CBS ACTION" tvg-logo="http://prime-tv.live/LOGOS/CBS%20Action.png" group-title="UK MOVIES",CBS ACTION
+
 http://primetvmedia.com:10/live/Stallion/Stallion/35.ts
-#EXTINF:-1 tv       X       b oŒK6   6   4—ö"¯€t/hãP³ E  (/à@ €¹À¨<2IK5- 
-ÆHÞ°¤·ÅPC'f    X            b “Kê  ê  t/hãP³4—ö"¯€ EÜþH@ 0	•2IKÀ¨< 
-5-¤·ÅÆHÞ°P wúŸ  g-ID="CBS Drama" tvg-name="CBS DRAMA" tvg-logo="http://prime-tv.live/LOGOS/CBS%20Drama.png" group-title="Uk Entertainment",CBS DRAMA
+
+#EXTINF:-1 tvg-ID="CBS Drama" tvg-name="CBS DRAMA" tvg-logo="http://prime-tv.live/LOGOS/CBS%20Drama.png" group-title="Uk Entertainment",CBS DRAMA
+
 http://primetvmedia.com:10/live/Stallion/Stallion/36.ts
+
 #EXTINF:-1 tvg-ID="CBS Reality" tvg-name="CBS REALITY" tvg-logo="http://prime-tv.live/LOGOS/CBS%20Reality.png" group-title="USA ENTERTAINMENT",CBS REALITY
+
 http://primetvmedia.com:10/live/Stallion/Stallion/34.ts
+
 #EXTINF:-1 tvg-ID="Drama" tvg-name="DRAMA" tvg-logo="http://solarwatchmen.com/Epg/logo's/Drama.png" group-title="Uk Entertainment",DRAMA
+
 http://primetvmedia.com:10/live/Stallion/Stallion/117.ts
+
 #EXTINF:-1 tvg-ID="E! HD" tvg-name="E!" tvg-logo="http://prime-tv.live/LOGOS/Everything%20Entertainment.png" group-title="USA ENTERTAINMENT",E!
+
 http://primetvmedia.com:10/live/Stallion/Stallion/37.ts
+
 #EXTINF:-1 tvg-ID="E!" tvg-name="E! UK" tvg-logo="" group-title="Uk Entertainment",E! UK
+
 http://primetvmedia.com:10/live/Stallion/Stallion/4497.ts
+
 #EXTINF:-1 tvg-ID="Food Network" tvg-name="FOOD NETWORK" tvg-logo="http://solarwatchmen.com/Epg/logo's/Food%20Network%20US.png" group-title="USA ENTERTAINMENT",FOOD NETWORK
+
 http://primetvmedia.com:10/live/Stallion/Stallion/50.ts
+
 #EXTINF:-1 tvg-ID="FOX HD" tvg-name="FOX UK" tvg-logo="http://solarwatchmen.com/Epg/logo's/FOX%20UK.png" group-title="Uk Entertainment",FOX UK
+
 http://primetvmedia.com:10/live/Stallion/Stallion/75.ts
-#EXTINF:-1 tvg-ID="FOX" tvg-name="FOX USA" tvg-logo="http://solarwatchmen.com             b “Kê  ê  t/hãP³4—ö"¯€ EÜþI@ 0	”2IKÀ¨< 
-5-¤·ÊÀÆHÞ°P wU“  /Epg/logo's/Fox.png" group-title="USA ENTERTAINMENT",FOX USA
+
+#EXTINF:-1 tvg-ID="FOX" tvg-name="FOX USA" tvg-logo="http://solarwatchmen.com/Epg/logo's/Fox.png" group-title="USA ENTERTAINMENT",FOX USA
+
 http://primetvmedia.com:10/live/Stallion/Stallion/76.ts
+
 #EXTINF:-1 tvg-ID="FX HDTV (West) (FXHD)" tvg-name="FX USA" tvg-logo="http://solarwatchmen.com/Epg/logo's/FX.png" group-title="USA ENTERTAINMENT",FX USA
+
 http://primetvmedia.com:10/live/Stallion/Stallion/39.ts
+
 #EXTINF:-1 tvg-ID="FXX HDTV (West) (FXXHD)" tvg-name="FXX USA" tvg-logo="http://solarwatchmen.com/Epg/logo's/FXX%20HD.png" group-title="USA ENTERTAINMENT",FXX USA
+
 http://primetvmedia.com:10/live/Stallion/Stallion/151.ts
+
 #EXTINF:-1 tvg-ID="Good Food HD" tvg-name="GOOD FOOD" tvg-logo="http://solarwatchmen.com/Epg/logo's/Good%20Food.png" group-title="Uk Entertainment",GOOD FOOD
+
 http://primetvmedia.com:10/live/Stallion/Stallion/47.ts
+
 #EXTINF:-1 tvg-ID="H2" tvg-name="H2 UK" tvg-logo="" group-title="Uk Entertainment",H2 UK
+
 http://primetvmedia.com:10/live/Stallion/Stallion/939.ts
+
 #EXTINF:-1 tvg-ID="Home & Garden Television HDTV (West) (HGTVD)" tvg-name="HGTV" tvg-logo="http://solarwatchmen.com/Epg/logo's/HGTV.png" group-title="USA ENTERTAINMENT",HGTV
+
 http://primetvmedia.com:10/live/Stallion/Stallion/42.ts
+
 #EXTINF:-1 tvg-ID="History HD" tvg-name="HISTORY UK" tvg-logo="http://solarwatchmen.com/Epg/logo's/History%20UK.png" group-title="Uk Entertainment",HISTORY UK
+
 http://primetvmedia.com:10/live/Stallion/Stallion/116.ts
-#EXTINF:-1 tvg-ID="Home" tvg-name="HOME" tvg-logo="http://solarwatchmen.com/Epg/logo's/Home.pn       X       b I“K6   6   4—ö"¯€t/hãP³ E  (/á@ €¸À¨<2IK5- 
-ÆHÞ°¤·ÐtPCþ    X            b •Kê  ê  t/hãP³4—ö"¯€ EÜþJ@ 0	“2IKÀ¨< 
-5-¤·ÐtÆHÞ°P w:ù  g" group-title="Uk Entertainment",HOME
+
+#EXTINF:-1 tvg-ID="Home" tvg-name="HOME" tvg-logo="http://solarwatchmen.com/Epg/logo's/Home.png" group-title="Uk Entertainment",HOME
+
 http://primetvmedia.com:10/live/Stallion/Stallion/45.ts
+
 #EXTINF:-1 tvg-ID="Food Network" tvg-name="Food Network UK" tvg-logo="" group-title="Uk Entertainment",Food Network UK
+
 http://primetvmedia.com:10/live/Stallion/Stallion/4498.ts
+
 #EXTINF:-1 tvg-ID="ID" tvg-name="INVESTIGATION DISCOVERY UK" tvg-logo="" group-title="Uk Entertainment",INVESTIGATION DISCOVERY UK
+
 http://primetvmedia.com:10/live/Stallion/Stallion/429.ts
+
 #EXTINF:-1 tvg-ID="Investigation Discovery Canada" tvg-name="INVESTIGATION DISCOVERY USA" tvg-logo="http://solarwatchmen.com/Epg/logo's/Discovery%20I.D..png" group-title="USA ENTERTAINMENT",INVESTIGATION DISCOVERY USA
 http://primetvmedia.com:10/live/Stallion/Stallion/139.ts
 #EXTINF:-1 tvg-ID="QUEST" tvg-name="QUEST" tvg-logo="http://solarwatchmen.com/Epg/logo's/Quest.png" group-title="Uk Entertainment",QUEST
@@ -188,253 +287,451 @@ http://primetvmedia.com:10/live/Stallion/Stallion/3215.ts
 #EXTINF:-1 tvg-ID="Really" tvg-name="REALLY" tvg-logo="http://solarwatchmen.com/Epg/logo's/Really.png" group-title="Uk Entertainment",REALLY
 http://primetvmedia.com:10/live/Stallion/Stallion/46.ts
 #EXTINF:-1 tvg-ID="RTÃ‰ One" tvg-name="RTE 1" tvg-logo="http://solarwatchmen.com/Epg/logo's/RTE%20One.png" group-title="Uk Entertainment",RTE 1
-http://primetvmedia.com:1             b ”—Kê  ê  t/hãP³4—ö"¯€ EÜþK@ 0	’2IKÀ¨< 
-5-¤·Ö(ÆHÞ°P wXÉ  0/live/Stallion/Stallion/108.ts
+
+http://primetvmedia.com:10/live/Stallion/Stallion/108.ts
+
 #EXTINF:-1 tvg-ID="RTÃ‰ Two" tvg-name="RTE 2" tvg-logo="http://solarwatchmen.com/Epg/logo's/RTE%20Two.png" group-title="Uk Entertainment",RTE 2
+
 http://primetvmedia.com:10/live/Stallion/Stallion/109.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="TG 4" tvg-logo="" group-title="Uk Entertainment",TG 4
 http://primetvmedia.com:10/live/Stallion/Stallion/3277.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="UTV" tvg-logo="" group-title="Uk Entertainment",UTV
 http://primetvmedia.com:10/live/Stallion/Stallion/4502.ts
+
 #EXTINF:-1 tvg-ID="SPIKE TV" tvg-name="SPIKE USA" tvg-logo="http://solarwatchmen.com/Epg/logo's/Spike%20HD.png" group-title="USA ENTERTAINMENT",SPIKE USA
+
 http://primetvmedia.com:10/live/Stallion/Stallion/122.ts
+
 #EXTINF:-1 tvg-ID="Syfy HD" tvg-name="SYFY UK" tvg-logo="http://prime-tv.live/LOGOS/SYFY%20UK.png" group-title="Uk Entertainment",SYFY UK
+
 http://primetvmedia.com:10/live/Stallion/Stallion/27.ts
+
 #EXTINF:-1 tvg-ID="Syfy 1" tvg-name="SYFY USA" tvg-logo="http://solarwatchmen.com/Epg/logo's/Spike%20HD.png" group-title="USA ENTERTAINMENT",SYFY USA
+
 http://primetvmedia.com:10/live/Stallion/Stallion/148.ts
 #EXTINF:-1 tvg-ID="TCM HD" tvg-name="TCM" tvg-logo="http://solarwatchmen.com/Epg/logo's/TCM.png" group-title="UK MOVIES",TCM
+
 http://primetvmedia.com:10/live/Stallion/Stallion/59.ts
+
 #EXTINF:-1 tvg-ID="tru TV" tvg-name="TRU TV UK" tvg-logo="" group-title="Uk Entertainment",TRU TV UK
-http://primetvmedia.com:10/live/S       X       b »—K6   6   4—ö"¯€t/hãP³ E  (/â@ €·À¨<2IK5- 
-ÆHÞ°¤·ÛÜPC–    X            b õˆKê  ê  t/hãP³4—ö"¯€ EÜþL@ 0	‘2IKÀ¨< 
-5-¤·ÛÜÆHÞ°P w¾]  tallion/Stallion/4500.ts
+
+http://primetvmedia.com:10/live/Stallion/Stallion/4500.ts
+
 #EXTINF:-1 tvg-ID="Turner Network Television HDTV (West) (TNTHD)" tvg-name="TNT USA" tvg-logo="http://solarwatchmen.com/Epg/logo's/TNT.png" group-title="USA ENTERTAINMENT",TNT USA
+
 http://primetvmedia.com:10/live/Stallion/Stallion/172.ts
+
 #EXTINF:-1 tvg-ID="Crime+Inv" tvg-name="CRIME AND INVESTIGATION" tvg-logo="http://solarwatchmen.com/Epg/logo's/Crime%20and%20Investigation.png" group-title="Uk Entertainment",CRIME AND INVESTIGATION
+
 http://primetvmedia.com:10/live/Stallion/Stallion/118.ts
+
 #EXTINF:-1 tvg-ID="TLC HD" tvg-name="TLC UK" tvg-logo="" group-title="Uk Entertainment",TLC UK
+
 http://primetvmedia.com:10/live/Stallion/Stallion/115.ts
+
 #EXTINF:-1 tvg-ID="Lifetime HD" tvg-name="LIFETIME" tvg-logo="http://solarwatchmen.com/Epg/logo's/LIFE.png" group-title="USA ENTERTAINMENT",LIFETIME
+
 http://primetvmedia.com:10/live/Stallion/Stallion/150.ts
+
 #EXTINF:-1 tvg-ID="YESTERDAY" tvg-name="YESTERDAY" tvg-logo="http://solarwatchmen.com/Epg/logo's/Yesterday.png" group-title="Uk Entertainment",YESTERDAY
+
 http://primetvmedia.com:10/live/Stallion/Stallion/107.ts
+
 #EXTINF:-1 tvg-ID="Eden" tvg-name="EDEN" tvg-logo="http://solarwatchmen.com/Epg/logo's/Eden.png" group-title="Uk Entertainment",EDEN
+
 http://primetvmedia.com:10/live/Stallion/Stallion/175.ts
+
 #EXTINF:-1 tvg-ID="HISTORY" tvg-name="USA HISTORY" tvg-logo="" group-title="USA ENTERTAINMENT",USA HISTORY
+
 http://primetvmedia.com:10/live/Stallion/Stallion/843.ts
-#EXTI             b Ÿ‰Kê  ê  t/hãP³4—ö"¯€ EÜþM@ 0	2IKÀ¨< 
-5-¤·áÆHÞ°P wcC  NF:-1 tvg-ID="Discovery" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://solarwatchmen.com/Epg/logo's/Discovery%20Channel.png" group-title="Uk Entertainment",DISCOVERY CHANNEL
+
+#EXTINF:-1 tvg-ID="Discovery" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://solarwatchmen.com/Epg/logo's/Discovery%20Channel.png" group-title="Uk Entertainment",DISCOVERY CHANNEL
+
 http://primetvmedia.com:10/live/Stallion/Stallion/43.ts
+
 #EXTINF:-1 tvg-ID="Discovery HD" tvg-name="DISCOVERY HD" tvg-logo="" group-title="USA ENTERTAINMENT",DISCOVERY HD
+
 http://primetvmedia.com:10/live/Stallion/Stallion/623.ts
+
 #EXTINF:-1 tvg-ID="Disc.History" tvg-name="DISCOVERY HISTORY" tvg-logo="http://solarwatchmen.com/Epg/logo's/Discovery%20History.png" group-title="Uk Entertainment",DISCOVERY HISTORY
+
 http://primetvmedia.com:10/live/Stallion/Stallion/138.ts
+
 #EXTINF:-1 tvg-ID="ID" tvg-name="DISCOVERY INVESTIGATION" tvg-logo="http://solarwatchmen.com/Epg/logo's/Discovery%20I.D..png" group-title="Uk Entertainment",DISCOVERY INVESTIGATION
+
 http://primetvmedia.com:10/live/Stallion/Stallion/137.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="Discovery Velocity" tvg-logo="" group-title="TEST",Discovery Velocity
+
 http://primetvmedia.com:10/live/Stallion/Stallion/3164.ts
 #EXTINF:-1 tvg-ID="Disc.Science" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://solarwatchmen.com/Epg/logo's/Discovery%20Science.png" group-title="Uk Entertainment",DISCOVERY SCIENCE
+
 http://primetvmedia.com:10/live/Stallion/Stallion/136.ts
-#EXTINF:-1 tvg-ID="Discovery Shed" tvg-name="DISCOVERY SHED" tvg-logo="http://solarwatchmen.com/Epg/logo's/Discovery%20Shed.png" group-title="Uk Entertainment",DISCOVERY SH       X       b Â‰K6   6   4—ö"¯€t/hãP³ E  (/ã@ €¶À¨<2IK5- 
-ÆHÞ°¤·çDPC.    X            b â£Kê  ê  t/hãP³4—ö"¯€ EÜþN@ 0	2IKÀ¨< 
-5-¤·çDÆHÞ°P w-O  ED
+
+#EXTINF:-1 tvg-ID="Discovery Shed" tvg-name="DISCOVERY SHED" tvg-logo="http://solarwatchmen.com/Epg/logo's/Discovery%20Shed.png" group-title="Uk Entertainment",DISCOVERY SHED
+
 http://primetvmedia.com:10/live/Stallion/Stallion/44.ts
+
 #EXTINF:-1 tvg-ID="Disc.Turbo" tvg-name="DISCOVERY TURBO" tvg-logo="http://solarwatchmen.com/Epg/logo's/Discovery%20Turbo.png" group-title="Uk Entertainment",DISCOVERY TURBO
+
 http://primetvmedia.com:10/live/Stallion/Stallion/141.ts
+
 #EXTINF:-1 tvg-ID="Disney Channel" tvg-name="DISNEY CHANNEL UK" tvg-logo="" group-title="KIDS",DISNEY CHANNEL UK
+
 http://primetvmedia.com:10/live/Stallion/Stallion/240.ts
+
 #EXTINF:-1 tvg-ID="AnimalPlnt HD" tvg-name="ANIMAL PLANET UK" tvg-logo="http://solarwatchmen.com/Epg/logo's/Animal%20Planet.png" group-title="Uk Entertainment",ANIMAL PLANET UK
+
 http://primetvmedia.com:10/live/Stallion/Stallion/157.ts
+
 #EXTINF:-1 tvg-ID="Animal Planet" tvg-name="ANIMAL PLANET USA" tvg-logo="http://solarwatchmen.com/Epg/logo's/Animal%20Planet.png" group-title="USA ENTERTAINMENT",ANIMAL PLANET USA
+
 http://primetvmedia.com:10/live/Stallion/Stallion/158.ts
+
 #EXTINF:-1 tvg-ID="Nat Geo" tvg-name="NATIONAL GEOGRAPHICAL UK" tvg-logo="http://solarwatchmen.com/Epg/logo's/Nat%20Geo%20Channel%20UK.png" group-title="Uk Entertainment",NATIONAL GEOGRAPHICAL UK
+
 http://primetvmedia.com:10/live/Stallion/Stallion/142.ts
+
 #EXTINF:-1 tvg-ID="National Geographic Channel" tvg-name="NAT GEO USA" tvg-logo="http://solarwatchmen.com/Epg/logo's/Nat%20Geo%20US.png" group-title="USA ENTERTAINMENT",NAT GEO USA
+
 http://primetvmedia.com:10/live/Stallion/Stallion/144.ts
-#EXTINF:-1 tvg-ID="NatGe             b ã£Kê  ê  t/hãP³4—ö"¯€ EÜþO@ 0	Ž2IKÀ¨< 
-5-¤·ìøÆHÞ°P wfÌ  oWild HD" tvg-name="NAT GEO WILD" tvg-logo="http://solarwatchmen.com/Epg/logo's/Nat%20Geo%20Wild.png" group-title="Uk Entertainment",NAT GEO WILD
+
+#EXTINF:-1 tvg-ID="NatGeoWild HD" tvg-name="NAT GEO WILD" tvg-logo="http://solarwatchmen.com/Epg/logo's/Nat%20Geo%20Wild.png" group-title="Uk Entertainment",NAT GEO WILD
+
 http://primetvmedia.com:10/live/Stallion/Stallion/143.ts
+
 #EXTINF:-1 tvg-ID="A&E Network HDTV (West) (A&EHD)" tvg-name="A AND E" tvg-logo="http://solarwatchmen.com/Epg/logo's/AE.png" group-title="USA ENTERTAINMENT",A AND E
+
 http://primetvmedia.com:10/live/Stallion/Stallion/162.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="ABC" tvg-logo="" group-title="USA ENTERTAINMENT",ABC
+
 http://primetvmedia.com:10/live/Stallion/Stallion/428.ts
+
 #EXTINF:-1 tvg-ID="AMC from BT" tvg-name="AMC UK" tvg-logo="http://solarwatchmen.com/Epg/logo's/AMC.png" group-title="Uk Entertainment",AMC UK
+
 http://primetvmedia.com:10/live/Stallion/Stallion/176.ts
+
 #EXTINF:-1 tvg-ID="AMC" tvg-name="AMC USA" tvg-logo="http://solarwatchmen.com/Epg/logo's/AMC%20HD.png" group-title="USA ENTERTAINMENT",AMC USA
+
 http://primetvmedia.com:10/live/Stallion/Stallion/163.ts
+
 #EXTINF:-1 tvg-ID="NEWS CONNECTICUT" tvg-name="CBS" tvg-logo="" group-title="NEWS",CBS
+
 http://primetvmedia.com:10/live/Stallion/Stallion/648.ts
+
 #EXTINF:-1 tvg-ID="CNBC" tvg-name="CNBC" tvg-logo="http://solarwatchmen.com/Epg/logo's/CNBC%20EU.png" group-title="NEWS",CNBC
+
 http://primetvmedia.com:10/live/Stallion/Stallion/180.ts
+
 #EXTINF:-1 tvg-ID="CNN HD" tvg-name="CNN" tvg-logo="http://solarwatchmen.com/Epg/logo's/CNN%20International.png" group-title="NEWS",CNN
-http://primetvme       X       b !¤K6   6   4—ö"¯€t/hãP³ E  (/ä@ €µÀ¨<2IK5- 
-ÆHÞ°¤·ò¬PCùÅ    X            b £¥Kê  ê  t/hãP³4—ö"¯€ EÜþP@ 0	2IKÀ¨< 
-5-¤·ò¬ÆHÞ°P wØ  dia.com:10/live/Stallion/Stallion/182.ts
+
+http://primetvmedia.com:10/live/Stallion/Stallion/182.ts
+
 #EXTINF:-1 tvg-ID="Comedy Central" tvg-name="COMEDY CENTRAL USA" tvg-logo="http://solarwatchmen.com/Epg/logo's/Comedy%20Central.png" group-title="USA ENTERTAINMENT",COMEDY CENTRAL USA
+
 http://primetvmedia.com:10/live/Stallion/Stallion/147.ts
+
 #EXTINF:-1 tvg-ID="CW" tvg-name="CW" tvg-logo="http://solarwatchmen.com/Epg/logo's/CW.png" group-title="USA ENTERTAINMENT",CW
+
 http://primetvmedia.com:10/live/Stallion/Stallion/149.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="NBC" tvg-logo="" group-title="USA ENTERTAINMENT",NBC
+
 http://primetvmedia.com:10/live/Stallion/Stallion/652.ts
+
 #EXTINF:-1 tvg-ID="NBCSN" tvg-name="NBCSN" tvg-logo="http://solarwatchmen.com/Epg/logo's/NBCSN.png" group-title="Sports",NBCSN
+
 http://primetvmedia.com:10/live/Stallion/Stallion/191.ts
+
 #EXTINF:-1 tvg-ID="OWN Canada" tvg-name="OWN HD" tvg-logo="http://solarwatchmen.com/Epg/logo's/OWN.png" group-title="USA ENTERTAINMENT",OWN HD
+
 http://primetvmedia.com:10/live/Stallion/Stallion/189.ts
+
 #EXTINF:-1 tvg-ID="PBS America" tvg-name="PBS" tvg-logo="" group-title="USA ENTERTAINMENT",PBS
+
 http://primetvmedia.com:10/live/Stallion/Stallion/316.ts
+
 #EXTINF:-1 tvg-ID="TBS Superstation HDTV (West) (TBSHD)" tvg-name="TBS USA" tvg-logo="http://solarwatchmen.com/Epg/logo's/TBS%20HD.png" group-title="USA ENTERTAINMENT",TBS USA
+
 http://primetvmedia.com:10/live/Stallion/Stallion/171.ts
-#EXTINF:-1 tvg-ID="True Ent" tvg-name="True Entertainment" tvg-logo=""             b Z¦Kê  ê  t/hãP³4—ö"¯€ EÜþQ@ 0	Œ2IKÀ¨< 
-5-¤·ø`ÆHÞ°P w¦4   group-title="UK MOVIES",True Entertainment
+
+#EXTINF:-1 tvg-ID="True Ent" tvg-name="True Entertainment" tvg-logo=" group-title="UK MOVIES",True Entertainment
+
 http://primetvmedia.com:10/live/Stallion/Stallion/4501.ts
+
 #EXTINF:-1 tvg-ID="Film4" tvg-name="FILM4" tvg-logo="" group-title="UK MOVIES",FILM4
+
 http://primetvmedia.com:10/live/Stallion/Stallion/934.ts
+
 #EXTINF:-1 tvg-ID="horror channel" tvg-name="HORROR CHANNEL" tvg-logo="http://solarwatchmen.com/Epg/logo's/Horror%20Channel.png" group-title="UK MOVIES",HORROR CHANNEL
+
 http://primetvmedia.com:10/live/Stallion/Stallion/174.ts
+
 #EXTINF:-1 tvg-ID="True Movies 2" tvg-name="TRUE MOVIES" tvg-logo="http://solarwatchmen.com/Epg/logo's/True%20Movies%202.png" group-title="UK MOVIES",TRUE MOVIES
+
 http://primetvmedia.com:10/live/Stallion/Stallion/61.ts
+
 #EXTINF:-1 tvg-ID="Sky Premiere" tvg-name="SKY Cinema -  PREMIERE" tvg-logo="http://solarwatchmen.com/Epg/logo's/Sky%20Premiere.png" group-title="UK MOVIES",SKY Cinema -  PREMIERE
+
 http://primetvmedia.com:10/live/Stallion/Stallion/51.ts
+
 #EXTINF:-1 tvg-ID="Sky Action" tvg-name="SKY Cinema - ACTION" tvg-logo="http://solarwatchmen.com/Epg/logo's/Sky%20Action.png" group-title="UK MOVIES",SKY Cinema - ACTION
+
 http://primetvmedia.com:10/live/Stallion/Stallion/53.ts
+
 #EXTINF:-1 tvg-ID="SkyDramaRom" tvg-name="SKY Cinema - DRAMA & ROMANCE" tvg-logo="http://solarwatchmen.com/Epg/logo's/Sky%20Drama.png" group-title="UK MOVIES",SKY Cinema - DRAMA & ROMANCE
+
 http://primetvmedia.com:10/live/Stallion/Stallion/55.ts
-#EXTINF:-1 tvg-ID="Sky Comedy" tvg-name="SKY Cinema -       X       b w¦K6   6   4—ö"¯€t/hãP³ E  (/å@ €´À¨<2IK5- 
-ÆHÞ°¤·þPCî]    X            b }ˆ"Kê  ê  t/hãP³4—ö"¯€ EÜþR@ 0	‹2IKÀ¨< 
-5-¤·þÆHÞ°P w;O   COMEDY" tvg-logo="http://solarwatchmen.com/Epg/logo's/Sky%20Comedy.png" group-title="UK MOVIES",SKY Cinema - COMEDY
+
+#EXTINF:-1 tvg-ID="Sky Comedy" tvg-name="SKY Cinema - COMEDY" tvg-logo="http://solarwatchmen.com/Epg/logo's/Sky%20Comedy.png" group-title="UK MOVIES",SKY Cinema - COMEDY
+
 http://primetvmedia.com:10/live/Stallion/Stallion/52.ts
+
 #EXTINF:-1 tvg-ID="Sky Family" tvg-name="SKY Cinema - FAMILY" tvg-logo="http://solarwatchmen.com/Epg/logo's/Sky%20Family.png" group-title="UK MOVIES",SKY Cinema - FAMILY
+
 http://primetvmedia.com:10/live/Stallion/Stallion/54.ts
+
 #EXTINF:-1 tvg-ID="Sky Disney" tvg-name="Sky Cinema Disney" tvg-logo="" group-title="UK MOVIES",Sky Cinema Disney
 http://primetvmedia.com:10/live/Stallion/Stallion/3212.ts
+
 #EXTINF:-1 tvg-ID="Sky Hits" tvg-name="SKY Cinema - HITS" tvg-logo="" group-title="UK MOVIES",SKY Cinema - HITS
+
 http://primetvmedia.com:10/live/Stallion/Stallion/2700.ts
+
 #EXTINF:-1 tvg-ID="Sky Greats" tvg-name="SKY Cinema -  GREATS" tvg-logo="http://solarwatchmen.com/Epg/logo's/Sky%20Modern%20Greats.png" group-title="UK MOVIES",SKY Cinema -  GREATS
+
 http://primetvmedia.com:10/live/Stallion/Stallion/57.ts
+
 #EXTINF:-1 tvg-ID="Sky ScFi/Horror" tvg-name="SKY Cinema - SCI-FI/HORROR" tvg-logo="http://solarwatchmen.com/Epg/logo's/Sky%20Sci-fiHorror.png" group-title="UK MOVIES",SKY Cinema - SCI-FI/HORROR
+
 http://primetvmedia.com:10/live/Stallion/Stallion/56.ts
+
 #EXTINF:-1 tvg-ID="Sky Select" tvg-name="SKY Cinema - SELECT" tvg-logo="" group-title="UK MOVIES",SKY Cinema - SELECT
+
 http://primetvmedia.com:10/live/Stallion/Stallion/2698.ts
-#EXTINF:-1 tvg-ID="HBO HDTV (East) (HBOHD             b 	Š"Kê  ê  t/hãP³4—ö"¯€ EÜþS@ 0	Š2IKÀ¨< 
-5-¤¸ÈÆHÞ°P wÎ  )" tvg-name="HBO HD" tvg-logo="http://solarwatchmen.com/Epg/logo's/HBO%20HD.png" group-title="USA MOVIES",HBO HD
+
+#EXTINF:-1 tvg-ID="HBO HDTV (East) (HBOHD)" tvg-name="HBO HD" tvg-logo="http://solarwatchmen.com/Epg/logo's/HBO%20HD.png" group-title="USA MOVIES",HBO HD
+
 http://primetvmedia.com:10/live/Stallion/Stallion/152.ts
+
 #EXTINF:-1 tvg-ID="Showtime HDTV (East) (SHOHD)" tvg-name="SHOWTIME HD" tvg-logo="http://solarwatchmen.com/Epg/logo's/Showtime.png" group-title="USA MOVIES",SHOWTIME HD
+
 http://primetvmedia.com:10/live/Stallion/Stallion/159.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="Cinemax" tvg-logo="" group-title="USA MOVIES",Cinemax
+
 http://primetvmedia.com:10/live/Stallion/Stallion/3367.ts
+
 #EXTINF:-1 tvg-ID="Movies 24" tvg-name="MOVIES 24" tvg-logo="" group-title="UK MOVIES",MOVIES 24
+
 http://primetvmedia.com:10/live/Stallion/Stallion/935.ts
+
 #EXTINF:-1 tvg-ID="movies4men" tvg-name="MOVIES 4 MEN" tvg-logo="http://solarwatchmen.com/Epg/logo's/Movies4Men.png" group-title="USA MOVIES",MOVIES 4 MEN
+
 http://primetvmedia.com:10/live/Stallion/Stallion/62.ts
+
 #EXTINF:-1 tvg-ID="Bike" tvg-name="BIKE" tvg-logo="" group-title="Sports",BIKE
+
 http://primetvmedia.com:10/live/Stallion/Stallion/4608.ts
+
 #EXTINF:-1 tvg-ID="BBC WORLD NEWS" tvg-name="BBC WORLD NEWS" tvg-logo="http://solarwatchmen.com/Epg/logo's/BBC%20World%20News.png" group-title="NEWS",BBC WORLD NEWS
+
 http://primetvmedia.com:10/live/Stallion/Stallion/111.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="RTE NEWS NOW" tvg-logo="" group-title="NEWS",RTE NEWS NOW
+
 http://primetvmedia.com:10/live/Stallion/Stallion/4528.ts
-#EXTINF:-1 tvg-ID="" tvg-name="rt        X       b *Š"K6   6   4—ö"¯€t/hãP³ E  (/æ@ €³À¨<2IK5- 
-ÆHÞ°¤¸	|PCâõ    X            b üª"Kê  ê  t/hãP³4—ö"¯€ EÜþT@ 0	‰2IKÀ¨< 
-5-¤¸	|ÆHÞ°P wŠ*  documentary (Direct)" tvg-logo="" group-title="Uk Entertainment",rt documentary (Direct)
+
+#EXTINF:-1 tvg-ID="" tvg-name="rt documentary (Direct)" tvg-logo="" group-title="Uk Entertainment",rt documentary (Direct)
+
 http://primetvmedia.com:10/live/Stallion/Stallion/8647.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="rt news (Direct)" tvg-logo="" group-title="NEWS",rt news (Direct)
+
 http://primetvmedia.com:10/live/Stallion/Stallion/8648.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="rt Uk (Direct)" tvg-logo="" group-title="Uk Entertainment",rt Uk (Direct)
+
 http://primetvmedia.com:10/live/Stallion/Stallion/8650.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="rt usa (Direct)" tvg-logo="" group-title="USA ENTERTAINMENT",rt usa (Direct)
+
 http://primetvmedia.com:10/live/Stallion/Stallion/8649.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="FOX NEWS" tvg-logo="" group-title="NEWS",FOX NEWS
+
 http://primetvmedia.com:10/live/Stallion/Stallion/650.ts
+
 #EXTINF:-1 tvg-ID="Sky News" tvg-name="SKY NEWS" tvg-logo="http://solarwatchmen.com/Epg/logo's/Sky%20News.png" group-title="NEWS",SKY NEWS
+
 http://primetvmedia.com:10/live/Stallion/Stallion/112.ts
+
 #EXTINF:-1 tvg-ID="SkySp Mix" tvg-name="SKY SPORTS MIX" tvg-logo="" group-title="Sports",SKY SPORTS MIX
+
 http://primetvmedia.com:10/live/Stallion/Stallion/345.ts
+
 #EXTINF:-1 tvg-ID="SkySp News" tvg-name="SKY SPORTS NEWS" tvg-logo="" group-title="Sports",SKY SPORTS NEWS
+
 http://primetvmedia.com:10/live/Stallion/Stallion/209.ts
+
 #EXTINF:-1 tvg-ID="SkySpMainEv" tvg-name="SKY SPORTS Main Event" tvg-logo="" group-title="Sports",SKY SPORTS Main Event
-http://primetvmedia.com:10/live/S             b º¬"Kê  ê  t/hãP³4—ö"¯€ EÜþU@ 0	ˆ2IKÀ¨< 
-5-¤¸0ÆHÞ°P w=¤  tallion/Stallion/383.ts
+
+http://primetvmedia.com:10/live/Stallion/Stallion/383.ts
+
 #EXTINF:-1 tvg-ID="SkySpCricket" tvg-name="SKY SPORTS Cricket" tvg-logo="" group-title="Sports",SKY SPORTS Cricket
+
 http://primetvmedia.com:10/live/Stallion/Stallion/384.ts
+
 #EXTINF:-1 tvg-ID="SkySp Action" tvg-name="SKY SPORTS Action" tvg-logo="" group-title="Sports",SKY SPORTS Action
+
 http://primetvmedia.com:10/live/Stallion/Stallion/385.ts
+
 #EXTINF:-1 tvg-ID="SkySp Golf" tvg-name="SKY SPORTS The Open (Golf)" tvg-logo="" group-title="Sports",SKY SPORTS The Open (Golf)
+
 http://primetvmedia.com:10/live/Stallion/Stallion/386.ts
+
 #EXTINF:-1 tvg-ID="SkySp PL" tvg-name="SKY SPORTS Premier League" tvg-logo="" group-title="Sports",SKY SPORTS Premier League
+
 http://primetvmedia.com:10/live/Stallion/Stallion/387.ts
+
 #EXTINF:-1 tvg-ID="SkySp ArenaHD" tvg-name="Sky Sports Arena 1080p" tvg-logo="" group-title="Sports",Sky Sports Arena 1080p
+
 http://primetvmedia.com:10/live/Stallion/Stallion/4685.ts
+
 #EXTINF:-1 tvg-ID="SkySp Fball HD" tvg-name="Sky Sports Football 1080p" tvg-logo="" group-title="Sports",Sky Sports Football 1080p
+
 http://primetvmedia.com:10/live/Stallion/Stallion/4686.ts
+
 #EXTINF:-1 tvg-ID="SkySp F1" tvg-name="SKY SPORTS F1" tvg-logo="" group-title="Sports",SKY SPORTS F1
+
 http://primetvmedia.com:10/live/Stallion/Stallion/82.ts
+
 #EXTINF:-1 tvg-ID="SkySpMainEvHD" tvg-name="Sky Sports Main Event 1080p" tvg-logo="" group-title="Sports",Sky Sports Main Event 1080p
-http://primetvmedia.com:10/live/Stallion/Stallio       X       b Û¬"K6   6   4—ö"¯€t/hãP³ E  (/ç@ €²À¨<2IK5- 
-ÆHÞ°¤¸äPC×    X            b ¸®"Kê  ê  t/hãP³4—ö"¯€ EÜþV@ 0	‡2IKÀ¨< 
-5-¤¸äÆHÞ°P wÜÞ  n/4650.ts
+
+http://primetvmedia.com:10/live/Stallion/Stallion/4650.ts
+
 #EXTINF:-1 tvg-ID="SkySpCricketHD" tvg-name="Sky Sports Cricket 1080p" tvg-logo="" group-title="Sports",Sky Sports Cricket 1080p
+
 http://primetvmedia.com:10/live/Stallion/Stallion/4651.ts
+
 #EXTINF:-1 tvg-ID="SkySp ActionHD" tvg-name="Sky Sports Action 1080p" tvg-logo="" group-title="Sports",Sky Sports Action 1080p
+
 http://primetvmedia.com:10/live/Stallion/Stallion/4652.ts
+
 #EXTINF:-1 tvg-ID="SkySp Golf HD" tvg-name="Sky Sports The Open (Golf) 1080p" tvg-logo="" group-title="Sports",Sky Sports The Open (Golf) 1080p
+
 http://primetvmedia.com:10/live/Stallion/Stallion/4653.ts
+
 #EXTINF:-1 tvg-ID="SkySp PL HD" tvg-name="Sky Sports Premier League 1080p" tvg-logo="" group-title="Sports",Sky Sports Premier League 1080p
+
 http://primetvmedia.com:10/live/Stallion/Stallion/4654.ts
+
 #EXTINF:-1 tvg-ID="SkySp F1 HD" tvg-name="Sky Sports F1 1080p" tvg-logo="" group-title="Sports",Sky Sports F1 1080p
+
 http://primetvmedia.com:10/live/Stallion/Stallion/4655.ts
+
 #EXTINF:-1 tvg-ID="BoxNation" tvg-name="Box nation" tvg-logo="" group-title="Sports",Box nation
+
 http://primetvmedia.com:10/live/Stallion/Stallion/3149.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="MUTV" tvg-logo="" group-title="Sports",MUTV
+
 http://primetvmedia.com:10/live/Stallion/Stallion/4495.ts
+
 #EXTINF:-1 tvg-ID="BT Sport 1" tvg-name="BT SPORT 1" tvg-logo="http://solarwatchmen.com/Epg/logo's/BT%20Sport%201.png" group-title="Sports",BT SPORT 1
-http://primetvmedia.com:10/live/Stallion/Stallion/             b ¹®"Kê  ê  t/hãP³4—ö"¯€ EÜþW@ 0	†2IKÀ¨< 
-5-¤¸˜ÆHÞ°P w‚  89.ts
+
+http://primetvmedia.com:10/live/Stallion/Stallion/89.ts
+
 #EXTINF:-1 tvg-ID="BT Sport 2" tvg-name="BT SPORT 2" tvg-logo="http://solarwatchmen.com/Epg/logo's/BT%20Sport%202.png" group-title="Sports",BT SPORT 2
+
 http://primetvmedia.com:10/live/Stallion/Stallion/91.ts
+
 #EXTINF:-1 tvg-ID="BT Sport 3" tvg-name="BT SPORT 3" tvg-logo="" group-title="Sports",BT SPORT 3
+
 http://primetvmedia.com:10/live/Stallion/Stallion/92.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="BT Sport 1 1080p" tvg-logo="" group-title="Sports",BT Sport 1 1080p
+
 http://primetvmedia.com:10/live/Stallion/Stallion/4656.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="BT Sport 2 1080p" tvg-logo="" group-title="Sports",BT Sport 2 1080p
+
 http://primetvmedia.com:10/live/Stallion/Stallion/4657.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="BT Sport 3 1080p" tvg-logo="" group-title="Sports",BT Sport 3 1080p
+
 http://primetvmedia.com:10/live/Stallion/Stallion/4658.ts
+
 #EXTINF:-1 tvg-ID="BT Sport//ESPN" tvg-name="BT SPORT ESPN" tvg-logo="http://solarwatchmen.com/Epg/logo's/BT%20Sport-ESPN.png" group-title="Sports",BT SPORT ESPN
+
 http://primetvmedia.com:10/live/Stallion/Stallion/90.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="BT SPORT EXTRA 2" tvg-logo="" group-title="Sports",BT SPORT EXTRA 2
+
 http://primetvmedia.com:10/live/Stallion/Stallion/626.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="BT SPORT EXTRA 3" tvg-logo="" group-title="Sports",BT SPORT EXTRA 3
+
 http://primetvmedia.com:10/live/Stallion/Stallion/627.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BT SPORT EXTRA 4" tvg-logo="" group-title="Sp       X       b Ú®"K6   6   4—ö"¯€t/hãP³ E  (/è@ €±À¨<2IK5- 
-ÆHÞ°¤¸ LPCÌ%    X            b êŽ%Kê  ê  t/hãP³4—ö"¯€ EÜþX@ 0	…2IKÀ¨< 
-5-¤¸ LÆHÞ°P w€  orts",BT SPORT EXTRA 4
+
+#EXTINF:-1 tvg-ID="" tvg-name="BT SPORT EXTRA 4" tvg-logo="" group-title="Sports",BT SPORT EXTRA 4
+
 http://primetvmedia.com:10/live/Stallion/Stallion/628.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="BT SPORT EXTRA 5" tvg-logo="" group-title="Sports",BT SPORT EXTRA 5
+
 http://primetvmedia.com:10/live/Stallion/Stallion/629.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="EIR SPORTS 1" tvg-logo="" group-title="Sports",EIR SPORTS 1
+
 http://primetvmedia.com:10/live/Stallion/Stallion/97.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="EIR SPORTS 2" tvg-logo="" group-title="Sports",EIR SPORTS 2
+
 http://primetvmedia.com:10/live/Stallion/Stallion/98.ts
+
 #EXTINF:-1 tvg-ID="Eurosport 1 HD" tvg-name="EUROSPORT 1" tvg-logo="http://solarwatchmen.com/Epg/logo's/Eurosport.png" group-title="Sports",EUROSPORT 1
+
 http://primetvmedia.com:10/live/Stallion/Stallion/93.ts
+
 #EXTINF:-1 tvg-ID="Eurosport 2 HD" tvg-name="EUROSPORT 2" tvg-logo="http://solarwatchmen.com/Epg/logo's/Eurosport%202.png" group-title="Sports",EUROSPORT 2
+
 http://primetvmedia.com:10/live/Stallion/Stallion/94.ts
+
 #EXTINF:-1 tvg-ID="Premier Sports" tvg-name="PREMIER SPORTS" tvg-logo="http://solarwatchmen.com/Epg/logo's/Premier%20Sports.png" group-title="Sports",PREMIER SPORTS
+
 http://primetvmedia.com:10/live/Stallion/Stallion/86.ts
+
 #EXTINF:-1 tvg-ID="msnbc HDTV (MSNBCH)" tvg-name="USA MSNBC" tvg-logo="" group-title="NEWS",USA MSNBC
 http://primetvmedia.com:10/live/Stallion/Stallion/905.ts
+
 #EXTINF:-1 tvg-ID="At The Races" tvg-name="AT THE RACES" tvg-logo="" group-title="Sports",AT THE RACES
-http://pri             b ëŽ%Kê  ê  t/hãP³4—ö"¯€ EÜþY@ 0	„2IKÀ¨< 
-5-¤¸& ÆHÞ°P wŽr  metvmedia.com:10/live/Stallion/Stallion/946.ts
+
+http://primetvmedia.com:10/live/Stallion/Stallion/946.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="CELTIC TV (LIVE MATCHES ONLY)" tvg-logo="" group-title="LIVE EVENTS",CELTIC TV (LIVE MATCHES ONLY)
+
 http://primetvmedia.com:10/live/Stallion/Stallion/404.ts
+
 #EXTINF:-1 tvg-ID="Chelsea TV" tvg-name="CHELSEA TV" tvg-logo="http://solarwatchmen.com/Epg/logo's/Chelsea%20TV.png" group-title="Sports",CHELSEA TV
+
 http://primetvmedia.com:10/live/Stallion/Stallion/95.ts
+
 #EXTINF:-1 tvg-ID="ESPN HDTV (ESPNHD)" tvg-name="ESPN" tvg-logo="http://solarwatchmen.com/Epg/logo's/ESPN%20UK.png" group-title="Sports",ESPN
+
 http://primetvmedia.com:10/live/Stallion/Stallion/168.ts
+
 #EXTINF:-1 tvg-ID="ESPN2 HDTV (ESPN2HD)" tvg-name="ESPN 2" tvg-logo="http://solarwatchmen.com/Epg/logo's/ESPN%202.png" group-title="Sports",ESPN 2
+
 http://primetvmedia.com:10/live/Stallion/Stallion/169.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="SEC NETWORK" tvg-logo="" group-title="Sports",SEC NETWORK
+
 http://primetvmedia.com:10/live/Stallion/Stallion/7489.ts
+
 #EXTINF:-1 tvg-ID="LFCTV" tvg-name="LIVERPOOL TV" tvg-logo="" group-title="Sports",LIVERPOOL TV
 http://primetvmedia.com:10/live/Stallion/Stallion/206.ts
 #EXTINF:-1 tvg-ID="NBA TV HDTV (NBA HD)" tvg-name="NBA TV HD" tvg-logo="http://solarwatchmen.com/Epg/logo's/NBA%20TV.png" group-title="Sports",NBA TV HD
@@ -447,247 +744,447 @@ http://primetvmedia.com:10/live/Stallion/Stallion/170.ts
 http://primetvmedia.com:10/live/Stallion/Stallion/190.ts
 #EXTINF:-1 tvg-ID="" tvg-name="NHL NETWORK" tvg-logo="" group-title="Sports",NHL NETWORK
 http://primetvmedia.com:10/live/Stallion/Stallion/874.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="PAC 12 LOS ANGELES" tvg-logo="" group-title="Sports",PAC 12 LOS ANGELES
+
 http://primetvmedia.com:10/live/Stallion/Stallion/583.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="PAC 12 NETWORK" tvg-logo="" group-title="Sports",PAC 12 NETWORK
+
 http://primetvmedia.com:10/live/Stallion/Stallion/580.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="PAC-12 ARIZONA" tvg-logo="" group-title="Sports",PAC-12 ARIZONA
+
 http://primetvmedia.com:10/live/Stallion/Stallion/579.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="PAC-12 BAY AREA" tvg-logo="" group-title="Sports",PAC-12 BAY AREA
+
 http://primetvmedia.com:10/live/Stallion/Stallion/581.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="PAC-12 MOUNTAIN" tvg-logo="" group-title="Sports",PAC-12 MOUNTAIN
+
 http://primetvmedia.com:10/live/Stallion/Stallion/582.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="PAC-12 OREGON" tvg-logo="" group-title="Sports",PAC-12 OREGON
+
 http://primetvmedia.com:10/live/Stallion/Stallion/578.ts
-#EXTINF:-1 tvg-ID="Racing UK HD" tvg-name="RACING UK" tvg-logo="http://solarwatchm             b ÿ©%Kê  ê  t/hãP³4—ö"¯€ EÜþ[@ 0	‚2IKÀ¨< 
-5-¤¸1hÆHÞ°P w{  en.com/Epg/logo's/Racing%20UK.png" group-title="Sports",RACING UK
+
+#EXTINF:-1 tvg-ID="Racing UK HD" tvg-name="RACING UK" tvg-logo="http://solarwatchmen.com/Epg/logo's/Racing%20UK.png" group-title="Sports",RACING UK
+
 http://primetvmedia.com:10/live/Stallion/Stallion/85.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="RANGERS TV (LIVE MATCHES ONLY)" tvg-logo="" group-title="LIVE EVENTS",RANGERS TV (LIVE MATCHES ONLY)
+
 http://primetvmedia.com:10/live/Stallion/Stallion/403.ts
+
 #EXTINF:-1 tvg-ID="114Â FOX Sports" tvg-name="FOX SPORTS 1" tvg-logo="http://solarwatchmen.com/Epg/logo's/Fox%20Sports%201.png" group-title="Sports",FOX SPORTS 1
+
 http://primetvmedia.com:10/live/Stallion/Stallion/87.ts
+
 #EXTINF:-1 tvg-ID="115Â FOX Sports 2" tvg-name="FOX SPORTS 2" tvg-logo="http://solarwatchmen.com/Epg/logo's/Fox%20Sports%202.png" group-title="Sports",FOX SPORTS 2
+
 http://primetvmedia.com:10/live/Stallion/Stallion/88.ts
+
 #EXTINF:-1 tvg-ID="HD1" tvg-name="BEIN SPORTS 1" tvg-logo="" group-title="Sports",BEIN SPORTS 1
+
 http://primetvmedia.com:10/live/Stallion/Stallion/405.ts
+
 #EXTINF:-1 tvg-ID="HD2" tvg-name="BEIN SPORTS 2" tvg-logo="" group-title="Sports",BEIN SPORTS 2
+
 http://primetvmedia.com:10/live/Stallion/Stallion/406.ts
+
 #EXTINF:-1 tvg-ID="HD3" tvg-name="BEIN SPORTS 3" tvg-logo="" group-title="Sports",BEIN SPORTS 3
+
 http://primetvmedia.com:10/live/Stallion/Stallion/407.ts
+
 #EXTINF:-1 tvg-ID="HD4" tvg-name="BEIN SPORTS 4" tvg-logo="" group-title="Sports",BEIN SPORTS 4
+
 http://primetvmedia.com:10/live/Stallion/Stallion/408.ts
-#EXTINF:-1 tvg-ID="HD5" tvg-name="BEIN SPORTS 5" tvg-logo="" group-title="Sports",B       X       b ª%K6   6   4—ö"¯€t/hãP³ E  (/ê@ €¯À¨<2IK5- 
-ÆHÞ°¤¸7PCµU    X            b Òª%Kê  ê  t/hãP³4—ö"¯€ EÜþ\@ 0	2IKÀ¨< 
-5-¤¸7ÆHÞ°P wô  EIN SPORTS 5
+
+#EXTINF:-1 tvg-ID="HD5" tvg-name="BEIN SPORTS 5" tvg-logo="" group-title="Sports",BEIN SPORTS 5
+
 http://primetvmedia.com:10/live/Stallion/Stallion/409.ts
+
 #EXTINF:-1 tvg-ID="HD6" tvg-name="BEIN SPORTS 6" tvg-logo="" group-title="Sports",BEIN SPORTS 6
+
 http://primetvmedia.com:10/live/Stallion/Stallion/410.ts
+
 #EXTINF:-1 tvg-ID="HD7" tvg-name="BEIN SPORTS 7" tvg-logo="" group-title="Sports",BEIN SPORTS 7
+
 http://primetvmedia.com:10/live/Stallion/Stallion/411.ts
+
 #EXTINF:-1 tvg-ID="HD8" tvg-name="BEIN SPORTS 8" tvg-logo="" group-title="Sports",BEIN SPORTS 8
+
 http://primetvmedia.com:10/live/Stallion/Stallion/412.ts
+
 #EXTINF:-1 tvg-ID="HD9" tvg-name="BEIN SPORTS 9" tvg-logo="" group-title="Sports",BEIN SPORTS 9
+
 http://primetvmedia.com:10/live/Stallion/Stallion/413.ts
+
 #EXTINF:-1 tvg-ID="HD10" tvg-name="BEIN SPORTS 10" tvg-logo="" group-title="Sports",BEIN SPORTS 10
+
 http://primetvmedia.com:10/live/Stallion/Stallion/414.ts
+
 #EXTINF:-1 tvg-ID="HD11" tvg-name="BEIN SPORTS 11" tvg-logo="" group-title="Sports",BEIN SPORTS 11
+
 http://primetvmedia.com:10/live/Stallion/Stallion/415.ts
+
 #EXTINF:-1 tvg-ID="HD12" tvg-name="BEIN SPORTS 12" tvg-logo="" group-title="Sports",BEIN SPORTS 12
+
 http://primetvmedia.com:10/live/Stallion/Stallion/416.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="CBS SPORTS NETWORK" tvg-logo="" group-title="Sports",CBS SPORTS NETWORK
+
 http://primetvmedia.com:10/live/Stallion/Stallion/312.ts
+
 #EXTINF:-1 tvg-ID="Sports Net Ontario" tvg-name="SPORTS NET ONTARIO" tvg-logo="" group-title="Sports",SPORTS NET ONTARIO
-http://pri             b ³Á%Kê  ê  t/hãP³4—ö"¯€ EÜþ]@ 0	€2IKÀ¨< 
-5-¤¸<ÐÆHÞ°P w%Ý  metvmedia.com:10/live/Stallion/Stallion/907.ts
+http://primetvmedia.com:10/live/Stallion/Stallion/907.ts
+
 #EXTINF:-1 tvg-ID="The Score HD" tvg-name="SPORTSNET 360" tvg-logo="http://solarwatchmen.com/Epg/logo's/Sportsnet%20360.png" group-title="Sports",SPORTSNET 360
+
 http://primetvmedia.com:10/live/Stallion/Stallion/103.ts
+
 #EXTINF:-1 tvg-ID="Sports Net One" tvg-name="SPORTSNET ONE" tvg-logo="http://solarwatchmen.com/Epg/logo's/Sportsnet%20One%20HD.png" group-title="Sports",SPORTSNET ONE
+
 http://primetvmedia.com:10/live/Stallion/Stallion/104.ts
+
 #EXTINF:-1 tvg-ID="Sports Net Pacifique" tvg-name="SPORTSNET PACIFIC" tvg-logo="http://solarwatchmen.com/Epg/logo's/Sportsnet%20Pacific.png" group-title="Sports",SPORTSNET PACIFIC
+
 http://primetvmedia.com:10/live/Stallion/Stallion/195.ts
+
 #EXTINF:-1 tvg-ID="Sports Net West" tvg-name="SPORTSNET WEST" tvg-logo="http://solarwatchmen.com/Epg/logo's/Sportsnet%20West.png" group-title="Sports",SPORTSNET WEST
+
 http://primetvmedia.com:10/live/Stallion/Stallion/194.ts
+
 #EXTINF:-1 tvg-ID="Sportsnet World" tvg-name="SPORTSNET WORLD" tvg-logo="http://solarwatchmen.com/Epg/logo's/Sportsnet%20World%20HD.png" group-title="Sports",SPORTSNET WORLD
+
 http://primetvmedia.com:10/live/Stallion/Stallion/196.ts
+
 #EXTINF:-1 tvg-ID="TSN1" tvg-name="TSN 1" tvg-logo="http://solarwatchmen.com/Epg/logo's/TSN%20HD.png" group-title="Sports",TSN 1
+
 http://primetvmedia.com:10/live/Stallion/Stallion/99.ts
-#EXTINF:-1 tvg-ID="TSN2" tvg-name="TSN 2" tvg-logo="http://solarwatchmen.com/Epg/lo             b µÁ%Kê  ê  t/hãP³4—ö"¯€ EÜþ^@ 0	2IKÀ¨< 
-5-¤¸B„ÆHÞ°P wK	  go's/TSN%202%20HD.png" group-title="Sports",TSN 2
+
+#EXTINF:-1 tvg-ID="TSN2" tvg-name="TSN 2" tvg-logo="http://solarwatchmen.com/Epg/logo's/TSN%202%20HD.png" group-title="Sports",TSN 2
+
 http://primetvmedia.com:10/live/Stallion/Stallion/100.ts
+
 #EXTINF:-1 tvg-ID="TSN3" tvg-name="TSN 3" tvg-logo="http://solarwatchmen.com/Epg/logo's/TSN%203%20HD.png" group-title="Sports",TSN 3
+
 http://primetvmedia.com:10/live/Stallion/Stallion/101.ts
+
 #EXTINF:-1 tvg-ID="TSN4" tvg-name="TSN 4" tvg-logo="http://solarwatchmen.com/Epg/logo's/TSN%204%20HD.png" group-title="Sports",TSN 4
+
 http://primetvmedia.com:10/live/Stallion/Stallion/102.ts
+
 #EXTINF:-1 tvg-ID="TSN" tvg-name="TSN 5" tvg-logo="" group-title="Sports",TSN 5
+
 http://primetvmedia.com:10/live/Stallion/Stallion/576.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="WWE" tvg-logo="http://solarwatchmen.com/Epg/logo's/WWE%20Network%20HD.png" group-title="Sports",WWE
+
 http://primetvmedia.com:10/live/Stallion/Stallion/134.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="MLB network" tvg-logo="" group-title="MLB",MLB network
+
 http://primetvmedia.com:10/live/Stallion/Stallion/3165.ts
+
 #EXTINF:-1 tvg-ID="RTÃ‰ Jr" tvg-name="RTE Jnr" tvg-logo="" group-title="Uk Entertainment",RTE Jnr
+
 http://primetvmedia.com:10/live/Stallion/Stallion/4499.ts
+
 #EXTINF:-1 tvg-ID="Boomerang HD" tvg-name="BOOMERANG" tvg-logo="http://solarwatchmen.com/Epg/logo's/Boomerang.png" group-title="KIDS",BOOMERANG
+
 http://primetvmedia.com:10/live/Stallion/Stallion/133.ts
-#EXTINF:-1 tvg-ID="Cartoon Net HD" tvg-name="CARTOON NETWORK" tvg-logo="http://solarwatchmen.com/Epg/logo's/Cartoon%20Network%20UK.       X       b çÁ%K6   6   4—ö"¯€t/hãP³ E  (/ë@ €®À¨<2IK5- 
-ÆHÞ°¤¸H8PC¤9    X            b €Œ(Kê  ê  t/hãP³4—ö"¯€ EÜþ_@ 0	~2IKÀ¨< 
-5-¤¸H8ÆHÞ°P w;Æ  png" group-title="KIDS",CARTOON NETWORK
+
+#EXTINF:-1 tvg-ID="Cartoon Net HD" tvg-name="CARTOON NETWORK" tvg-logo="http://solarwatchmen.com/Epg/logo's/Cartoon%20Network%20UK.png" group-title="KIDS",CARTOON NETWORK
+
 http://primetvmedia.com:10/live/Stallion/Stallion/130.ts
+
 #EXTINF:-1 tvg-ID="CBBC HD" tvg-name="CBBC" tvg-logo="http://solarwatchmen.com/Epg/logo's/CBBC.png" group-title="KIDS",CBBC
+
 http://primetvmedia.com:10/live/Stallion/Stallion/132.ts
+
 #EXTINF:-1 tvg-ID="Disney Jnr HD" tvg-name="DISNEY JNR" tvg-logo="http://solarwatchmen.com/Epg/logo's/Disney%20Junior.png" group-title="KIDS",DISNEY JNR
+
 http://primetvmedia.com:10/live/Stallion/Stallion/125.ts
+
 #EXTINF:-1 tvg-ID="Disney XD HD" tvg-name="DISNEY XD" tvg-logo="http://solarwatchmen.com/Epg/logo's/Disney%20XD.png" group-title="KIDS",DISNEY XD
+
 http://primetvmedia.com:10/live/Stallion/Stallion/124.ts
+
 #EXTINF:-1 tvg-ID="Kix" tvg-name="Kix" tvg-logo="" group-title="KIDS",Kix
+
 http://primetvmedia.com:10/live/Stallion/Stallion/3216.ts
+
 #EXTINF:-1 tvg-ID="POP" tvg-name="POP" tvg-logo="" group-title="KIDS",POP
+
 http://primetvmedia.com:10/live/Stallion/Stallion/3217.ts
+
 #EXTINF:-1 tvg-ID="Nick Jr." tvg-name="NICK JR" tvg-logo="http://solarwatchmen.com/Epg/logo's/Nick%20Jr.png" group-title="KIDS",NICK JR
+
 http://primetvmedia.com:10/live/Stallion/Stallion/128.ts
+
 #EXTINF:-1 tvg-ID="Nick Jr Too" tvg-name="NICK JR.TOO" tvg-logo="http://solarwatchmen.com/Epg/logo's/Nick%20Jr%202.png" group-title="KIDS",NICK JR.TOO
+
 http://primetvmedia.com:10/live/Stallion/Stallion/126.ts
-#EXTINF:-1 tvg-ID="Nickelodeon" tvg-name="NICKELODEON 1" tvg-logo="http://solarwatchmen.             b 6(Kê  ê  t/hãP³4—ö"¯€ EÜþ`@ 0	}2IKÀ¨< 
-5-¤¸MìÆHÞ°P w/  com/Epg/logo's/Nickelodeon.png" group-title="KIDS",NICKELODEON 1
+
+#EXTINF:-1 tvg-ID="Nickelodeon" tvg-name="NICKELODEON 1" tvg-logo="http://solarwatchmen.com/Epg/logo's/Nickelodeon.png" group-title="KIDS",NICKELODEON 1
+
 http://primetvmedia.com:10/live/Stallion/Stallion/127.ts
+
 #EXTINF:-1 tvg-ID="Nicktoons" tvg-name="NICKTOONS" tvg-logo="http://solarwatchmen.com/Epg/logo's/Nicktoons.png" group-title="KIDS",NICKTOONS
+
 http://primetvmedia.com:10/live/Stallion/Stallion/123.ts
+
 #EXTINF:-1 tvg-ID="MTV HD" tvg-name="MTV" tvg-logo="http://solarwatchmen.com/Epg/logo's/MTV.png" group-title="MUSIC CHANNELS",MTV
+
 http://primetvmedia.com:10/live/Stallion/Stallion/65.ts
+
 #EXTINF:-1 tvg-ID="MTV BASE" tvg-name="MTV BASE" tvg-logo="" group-title="MUSIC CHANNELS",MTV BASE
+
 http://primetvmedia.com:10/live/Stallion/Stallion/66.ts
+
 #EXTINF:-1 tvg-ID="MTV Classic" tvg-name="MTV CLASSICS" tvg-logo="" group-title="MUSIC CHANNELS",MTV CLASSICS
+
 http://primetvmedia.com:10/live/Stallion/Stallion/71.ts
+
 #EXTINF:-1 tvg-ID="MTV DANCE" tvg-name="MTV DANCE" tvg-logo="http://solarwatchmen.com/Epg/logo's/MTV%20DANCE.png" group-title="MUSIC CHANNELS",MTV DANCE
+
 http://primetvmedia.com:10/live/Stallion/Stallion/68.ts
+
 #EXTINF:-1 tvg-ID="MTV HITS" tvg-name="MTV HITS" tvg-logo="http://solarwatchmen.com/Epg/logo's/MTV%20HITS.png" group-title="MUSIC CHANNELS",MTV HITS
+
 http://primetvmedia.com:10/live/Stallion/Stallion/67.ts
+
 #EXTINF:-1 tvg-ID="VH1" tvg-name="VH1" tvg-logo="http://solarwatchmen.com/Epg/logo's/VH1.png" group-title="MUSIC CHANNELS",VH1
+
 http://primetvmedia.com:10/live/Stallion/Stallion/70.ts
-#EXTINF:-1 tvg-ID=""       X       b N(K6   6   4—ö"¯€t/hãP³ E  (/ì@ €­À¨<2IK5- 
-ÆHÞ°¤¸S PC˜Ñ    X            b Ð¦(Kê  ê  t/hãP³4—ö"¯€ EÜþa@ 0	|2IKÀ¨< 
-5-¤¸S ÆHÞ°P w(<   tvg-name="BET" tvg-logo="" group-title="USA ENTERTAINMENT",BET
+
+#EXTINF:-1 tvg-ID="" tvg-name="BET" tvg-logo="" group-title="USA ENTERTAINMENT",BET
+
 http://primetvmedia.com:10/live/Stallion/Stallion/4690.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="OSN Box Office 1 HD ARB" tvg-logo="" group-title="OSN",OSN Box Office 1 HD ARB
+
 http://primetvmedia.com:10/live/Stallion/Stallion/7476.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="OSN Box Office 2 HD ARB" tvg-logo="" group-title="OSN",OSN Box Office 2 HD ARB
+
 http://primetvmedia.com:10/live/Stallion/Stallion/7475.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="OSN Box Office 3 ARB" tvg-logo="" group-title="OSN",OSN Box Office 3 ARB
+
 http://primetvmedia.com:10/live/Stallion/Stallion/7474.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="OSN ITV Choice ARB" tvg-logo="" group-title="OSN",OSN ITV Choice ARB
+
 http://primetvmedia.com:10/live/Stallion/Stallion/7473.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="OSN Movie Comedy ARB" tvg-logo="" group-title="OSN",OSN Movie Comedy ARB
+
 http://primetvmedia.com:10/live/Stallion/Stallion/7467.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="OSN Movie Family ARB" tvg-logo="" group-title="OSN",OSN Movie Family ARB
 http://primetvmedia.com:10/live/Stallion/Stallion/7470.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="OSN Movie Festival ARB" tvg-logo="" group-title="OSN",OSN Movie Festival ARB
+
 http://primetvmedia.com:10/live/Stallion/Stallion/7469.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="OSN Movie Kids ARB" tvg-logo="" group-title="OSN",OSN Movie Kids ARB
+
 http://primetvmedia.com:10/live/Stallion/Stallion/7468.ts
-#EXTINF:-1 tvg-I             b o§(Kê  ê  t/hãP³4—ö"¯€ EÜþb@ 0	{2IKÀ¨< 
-5-¤¸YTÆHÞ°P w •  D="" tvg-name="OSN Sport 1 Action ARB" tvg-logo="" group-title="OSN",OSN Sport 1 Action ARB
+
+#EXTINF:-1 tvg-ID="" tvg-name="OSN Sport 1 Action ARB" tvg-logo="" group-title="OSN",OSN Sport 1 Action ARB
+
 http://primetvmedia.com:10/live/Stallion/Stallion/7472.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="OSN Sport 2 Action ARB" tvg-logo="" group-title="OSN",OSN Sport 2 Action ARB
+
 http://primetvmedia.com:10/live/Stallion/Stallion/7471.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="NFL SUNDAY TICKET: 1" tvg-logo="" group-title="NFL",NFL SUNDAY TICKET: 1
+
 http://primetvmedia.com:10/live/Stallion/Stallion/7504.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="NFL SUNDAY TICKET: 2" tvg-logo="" group-title="NFL",NFL SUNDAY TICKET: 2
+
 http://primetvmedia.com:10/live/Stallion/Stallion/7503.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="NFL SUNDAY TICKET 3" tvg-logo="" group-title="NFL",NFL SUNDAY TICKET 3
+
 http://primetvmedia.com:10/live/Stallion/Stallion/7502.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="NFL SUNDAY TICKET 4" tvg-logo="" group-title="NFL",NFL SUNDAY TICKET 4
+
 http://primetvmedia.com:10/live/Stallion/Stallion/7501.ts
 #EXTINF:-1 tvg-ID="" tvg-name="NFL SUNDAY TICKET 5" tvg-logo="" group-title="NFL",NFL SUNDAY TICKET 5
+
 http://primetvmedia.com:10/live/Stallion/Stallion/7500.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="NFL SUNDAY TICKET 6" tvg-logo="" group-title="NFL",NFL SUNDAY TICKET 6
+
 http://primetvmedia.com:10/live/Stallion/Stallion/7499.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="NFL SUNDAY TICKET 7" tvg-logo="" group-title="NFL",NFL SUNDAY TICKET 7
+
 http://primetvmedia.com:10/live/Stallion/Stallion/7498.ts
-#E       X       b €§(K6   6   4—ö"¯€t/hãP³ E  (/í@ €¬À¨<2IK5- 
-ÆHÞ°¤¸_PCi    X            b ›¾(Kê  ê  t/hãP³4—ö"¯€ EÜþc@ 0	z2IKÀ¨< 
-5-¤¸_ÆHÞ°P wÁ  XTINF:-1 tvg-ID="" tvg-name="NFL SUNDAY TICKET 8" tvg-logo="" group-title="NFL",NFL SUNDAY TICKET 8
+
+#EXTINF:-1 tvg-ID="" tvg-name="NFL SUNDAY TICKET 8" tvg-logo="" group-title="NFL",NFL SUNDAY TICKET 8
+
 http://primetvmedia.com:10/live/Stallion/Stallion/7497.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="NFL SUNDAY TICKET 9" tvg-logo="" group-title="NFL",NFL SUNDAY TICKET 9
+
 http://primetvmedia.com:10/live/Stallion/Stallion/7496.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="NFL SUNDAY TICKET: 10" tvg-logo="" group-title="NFL",NFL SUNDAY TICKET: 10
+
 http://primetvmedia.com:10/live/Stallion/Stallion/7495.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="NFL SUNDAY TICKET: 11" tvg-logo="" group-title="NFL",NFL SUNDAY TICKET: 11
+
 http://primetvmedia.com:10/live/Stallion/Stallion/7494.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="NFL SUNDAY TICKET: 12" tvg-logo="" group-title="NFL",NFL SUNDAY TICKET: 12
+
 http://primetvmedia.com:10/live/Stallion/Stallion/7493.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="NFL SUNDAY TICKET: 13" tvg-logo="" group-title="NFL",NFL SUNDAY TICKET: 13
+
 http://primetvmedia.com:10/live/Stallion/Stallion/7492.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="NFL SUNDAY TICKET: 14" tvg-logo="" group-title="NFL",NFL SUNDAY TICKET: 14
+
 http://primetvmedia.com:10/live/Stallion/Stallion/7491.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="NBA Live 1" tvg-logo="" group-title="NBA",NBA Live 1
+
 http://primetvmedia.com:10/live/Stallion/Stallion/8469.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="NBA Live 2" tvg-logo="" group-title="NBA",NBA Live 2
+
 http://primetvmedia.com:10/live/Stallion/Stallion/8470.ts
-#EXTINF:-1 tvg-ID=""             b qÀ(Kê  ê  t/hãP³4—ö"¯€ EÜþd@ 0	y2IKÀ¨< 
-5-¤¸d¼ÆHÞ°P w ‚   tvg-name="NBA Live 3" tvg-logo="" group-title="NBA",NBA Live 3
+
+#EXTINF:-1 tvg-ID=""tvg-name="NBA Live 3" tvg-logo="" group-title="NBA",NBA Live 3
+
 http://primetvmedia.com:10/live/Stallion/Stallion/8471.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="NBA Live 4" tvg-logo="" group-title="NBA",NBA Live 4
+
 http://primetvmedia.com:10/live/Stallion/Stallion/8472.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="NBA Live 5" tvg-logo="" group-title="NBA",NBA Live 5
+
 http://primetvmedia.com:10/live/Stallion/Stallion/8473.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="NBA Live 6" tvg-logo="" group-title="NBA",NBA Live 6
+
 http://primetvmedia.com:10/live/Stallion/Stallion/8474.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="NBA Live 7" tvg-logo="" group-title="NBA",NBA Live 7
+
 http://primetvmedia.com:10/live/Stallion/Stallion/8475.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="NBA Live 8" tvg-logo="" group-title="NBA",NBA Live 8
+
 http://primetvmedia.com:10/live/Stallion/Stallion/8476.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="CITY CA" tvg-logo="" group-title="Canadian",CITY CA
+
 http://primetvmedia.com:10/live/Stallion/Stallion/8510.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="NFL Red Zone" tvg-logo="" group-title="NFL",NFL Red Zone
+
 http://primetvmedia.com:10/live/Stallion/Stallion/7490.ts
+
 #EXTINF:-1 tvg-ID="HD13" tvg-name="Bein Sports 13" tvg-logo="" group-title="Sports",Bein Sports 13
+
 http://primetvmedia.com:10/live/Stallion/Stallion/7363.ts
+
 #EXTINF:-1 tvg-ID="HD14" tvg-name="Bein Sports 14" tvg-logo="" group-title="Sports",Bein Sports 14
+
 http://primetvmedia.com:10/live/Stallion/Stallion/7364.ts
-#EXTINF       X       b ›À(K6   6   4—ö"¯€t/hãP³ E  (/î@ €«À¨<2IK5- 
-ÆHÞ°¤¸jpPC‚    X            b ìÄ(Kê  ê  t/hãP³4—ö"¯€ EÜþe@ 0	x2IKÀ¨< 
-5-¤¸jpÆHÞ°P w¢=  :-1 tvg-ID="HD15" tvg-name="Bein Sports 15" tvg-logo="" group-title="Sports",Bein Sports 15
+
+#EXTINF:-1 tvg-ID="HD15" tvg-name="Bein Sports 15" tvg-logo="" group-title="Sports",Bein Sports 15
+
 http://primetvmedia.com:10/live/Stallion/Stallion/7365.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Cartoonito" tvg-logo="" group-title="KIDS",Cartoonito
+
 http://primetvmedia.com:10/live/Stallion/Stallion/8258.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="Cbeebies" tvg-logo="" group-title="KIDS",Cbeebies
+
 http://primetvmedia.com:10/live/Stallion/Stallion/8259.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="Hallmark HD" tvg-logo="" group-title="Uk Entertainment",Hallmark HD
+
 http://primetvmedia.com:10/live/Stallion/Stallion/4558.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="offline advert" tvg-logo="" group-title="",offline advert
+
 http://primetvmedia.com:10/live/Stallion/Stallion/8293.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="XXX Dressing room" tvg-logo="" group-title="XXX",XXX Dressing room
+
 http://primetvmedia.com:10/live/Stallion/Stallion/8652.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="XXX Main Stage" tvg-logo="" group-title="XXX",XXX Main Stage
+
 http://primetvmedia.com:10/live/Stallion/Stallion/8651.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="ES: AMC HD" tvg-logo="" group-title="Spanish",ES: AMC HD
+
 http://primetvmedia.com:10/live/Stallion/Stallion/8336.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="ES: AXN HD" tvg-logo="" group-title="Spanish",ES: AXN HD
+
 http://primetvmedia.com:10/live/Stallion/Stallion/8339.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="ES: AXN White" tvg-logo="" group-title="Spanish",ES: AXN White
-http://primet       X       b Fc)K6   6   4—ö"¯€t/hãP³ E  (/ï@ €ªÀ¨<2IK5- 
-ÆHÞ°¤¸p$PC|M    X            b —+Kê  ê  t/hãP³4—ö"¯€ EÜþf@ 0	w2IKÀ¨< 
-5-¤¸p$ÆHÞ°P wT  vmedia.com:10/live/Stallion/Stallion/8338.ts
+
+http://primetvmedia.com:10/live/Stallion/Stallion/8338.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="ES: Canal Plus Accion" tvg-logo="" group-title="Spanish",ES: Canal Plus Accion
+
 http://primetvmedia.com:10/live/Stallion/Stallion/8347.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="ES: Canal Plus Dcine" tvg-logo="" group-title="Spanish",ES: Canal Plus Dcine
+
 http://primetvmedia.com:10/live/Stallion/Stallion/8346.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="ES: Canal Plus Deportes" tvg-logo="" group-title="Spanish",ES: Canal Plus Deportes
+
 http://primetvmedia.com:10/live/Stallion/Stallion/8345.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="ES: Canal Plus Deportes2" tvg-logo="" group-title="Spanish",ES: Canal Plus Deportes2
+
 http://primetvmedia.com:10/live/Stallion/Stallion/8344.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="ES: Canal Plus Estrenos" tvg-logo="" group-title="Spanish",ES: Canal Plus Estrenos
+
 http://primetvmedia.com:10/live/Stallion/Stallion/8343.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="ES: Canal Plus futbol" tvg-logo="" group-title="Spanish",ES: Canal Plus futbol
+
 http://primetvmedia.com:10/live/Stallion/Stallion/8342.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="ES: Canal Plus laliga" tvg-logo="" group-title="Spanish",ES: Canal Plus laliga
+
 http://primetvmedia.com:10/live/Stallion/Stallion/8341.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="ES: Canal Plus Series" tvg-logo="" group-title="Spanish",ES: Canal Plus Series
+
 http://primetvmedia.com:10/live/Stallion/Stallion/8340.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ES: TELECIN       Ü      b Å˜+K¼  ¼  t/hãP³4—ö"¯€ E®þg@ 0
-¤2IKÀ¨< 
-5-¤¸uØÆHÞ°P wø$  CO HD" tvg-logo="" group-title="Spanish",ES: TELECINCO HD
+
+#EXTINF:-1 tvg-ID="" tvg-name="ES: TELECINCO HD" tvg-logo="" group-title="Spanish",ES: TELECINCO HD
+
 http://primetvmedia.com:10/live/Stallion/Stallion/8337.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="ESPN U" tvg-logo="" group-title="Sports",ESPN U
+
 http://primetvmedia.com:10/live/Stallion/Stallion/8332.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="NESN" tvg-logo="" group-title="Sports",NESN
+
 http://primetvmedia.com:10/live/Stallion/Stallion/8512.ts
