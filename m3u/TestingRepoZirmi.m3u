@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U size="medium"
 #EXTINF:-1,[B][COLOR blue]ZIRMI - ZAN[/COLOR][/B]
 http://wpc.55d6d.deltacdn.net/3055D6D/teb002/.m3u8
 #EXTINF:-1,Makkah Live (UPDATE)
@@ -89,15 +89,15 @@ http://primetvmedia.com:10/live/Stallion/Stallion/67.ts
 http://primetvmedia.com:10/live/Stallion/Stallion/7474.ts
 #EXTINF:-1,HALLMARK HD (UPDATE)
 http://primetvmedia.com:10/live/Stallion/Stallion/4558.ts
-#EXTINF:-1 tvg-ID="Blaze" tvg-name="MOVIES" tvg-logo="" group-title="MOVIES",5 HEADED SHARK ATTACK 2017
+#EXTINF:-1, tvg-ID="Blaze" tvg-name="MOVIES" tvg-logo="https://www.google.com.sg/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj7-8fuiMvYAhUHxbwKHfRRAKEQjRwIBw&url=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt4685096%2F&psig=AOvVaw3h--haXnOMUpGYbVfqcLYm&ust=1515593751027659" group-title="MOVIES",5 HEADED SHARK ATTACK 2017
 https://hls.streamdor.co/458545d9e614857b415083d687295fcf/20146/hd-720p.mp4/index.m3u8
-#EXTINF:-1 tvg-ID="Blaze" tvg-name="MOVIES" tvg-logo="" group-title="MOVIES",KILLING GUNTHER 2017
+#EXTINF:-1, tvg-ID="Blaze" tvg-name="MOVIES" tvg-logo="https://www.google.com.sg/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjPmbWTicvYAhXCUrwKHewhAuQQjRwIBw&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGeLp9-k9-LQ&psig=AOvVaw0Zof4p5i3Dd548gNTPM2Cz&ust=1515593834601238" group-title="MOVIES",KILLING GUNTHER 2017
 https://www2096.playercdn.net/88/0/_4lN8elEH8RcKOFENV7HfQ/1515415073/170925/099FJVJQYBEK5J7PZCPEF.mp4
-#EXTINF:-1 tvg-ID="Blaze" tvg-name="MOVIES" tvg-logo="" group-title="MOVIES",BLOOD MONEY 2017
+#EXTINF:-1, tvg-ID="Blaze" tvg-name="MOVIES" tvg-logo="https://www.google.com.sg/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjOxbypicvYAhXCXLwKHUayDKAQjRwIBw&url=https%3A%2F%2Fwww.rottentomatoes.com%2Fm%2Fblood_money_2017%2F&psig=AOvVaw3AAK3_hs7E3BdR4t2Y3soO&ust=1515593875936308" group-title="MOVIES",BLOOD MONEY 2017
 https://doc-0s-7s-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/mpu68a8stsj5evdfubsjmp991m4j0s8h/1515240000000/12055718448398910965/*/0Bx6-dBSYoJ5kSHhqZWMyYTJ4RFU
-#EXTINF:-1 tvg-ID="Blaze" tvg-name="MOVIES" tvg-logo="" group-title="MOVIES",CLOWNTERGEIST HD 2017
+#EXTINF:-1, tvg-ID="Blaze" tvg-name="MOVIES" tvg-logo="https://www.google.com.sg/imgres?imgurl=https%3A%2F%2Fstore.hmv.com%2FHMVStore%2Fmedia%2Fproduct%2F83943%2F01-83943.jpg&imgrefurl=https%3A%2F%2Fstore.hmv.com%2Ffilm-tv%2Fdvd%2Fclowntergeist&docid=CakGENBtHJzCSM&tbnid=4P8ppkBsnRoVLM%3A&vet=10ahUKEwj-tY24icvYAhUD3o8KHcB_BAQQMwhOKBAwEA..i&w=400&h=565&bih=675&biw=1366&q=clowntergeist&ved=0ahUKEwj-tY24icvYAhUD3o8KHcB_BAQQMwhOKBAwEA&iact=mrc&uact=8" group-title="MOVIES",CLOWNTERGEIST HD 2017
 https://www67.uptostream.com/4fxzct9d91a/1080/0/video.mp4
-#EXTINF:-1 tvg-ID="Blaze" tvg-name="MOVIES" tvg-logo="" group-title="MOVIES",DEMENTIA 13 2017
+#EXTINF:-1, tvg-ID="Blaze" tvg-name="MOVIES" tvg-logo="https://www.google.com.sg/imgres?imgurl=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FM%2FMV5BMTk4MDM1NzQ0NV5BMl5BanBnXkFtZTgwMjM0NjIzMzI%40._V1_UX182_CR0%2C0%2C182%2C268_AL_.jpg&imgrefurl=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt5806506%2F&docid=vWlqDTYqysoqhM&tbnid=voMK4nULstByuM%3A&vet=10ahUKEwjf1bzHicvYAhUIso8KHYWTDlcQMwg_KAEwAQ..i&w=182&h=268&bih=675&biw=1366&q=dementia%2013&ved=0ahUKEwjf1bzHicvYAhUIso8KHYWTDlcQMwg_KAEwAQ&iact=mrc&uact=8" group-title="MOVIES",DEMENTIA 13 2017
 https://www465.playercdn.net/73/0/ZAcZLBd1gdS0r5nay7IFrg/1515418347/171216/XpBvowFTOJIdQ7H.mp4
 
 
