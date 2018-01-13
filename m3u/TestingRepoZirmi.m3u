@@ -5,26 +5,26 @@ http://wpc.55d6d.deltacdn.net/3055D6D/teb002/.m3u8
 
 #EXTINF:-1,[B][COLOR yellow]~NEW UPDATES~[/COLOR][/B]
 http://wpc.55d6d.deltacdn.net/3055D6D/teb002/.m3u8
-#EXTINF:-1,MAKKAH LIVE
+#EXTINF:-1,tvg-logo="https://i.ytimg.com/vi/2XVI6D_4CXs/hqdefault.jpg",MAKKAH LIVE
 http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel7/1.m3u8
-#EXTINF:-1,MADINA LIVE
+#EXTINF:-1,tvg-logo="https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/B36E/production/_84343954_meccalive.jpg",MADINA LIVE
 http://185.21.217.32:9099/shark/madina/chunks.m3u8?nimblesessionid=429799&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDE4IDk6MDQ6MjEgUE0maGFzaF92YWx1ZT1uekdRd250aldoZ0pwSzNSNmhFZ0d3PT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1,AHLULBAYT TV
+#EXTINF:-1,tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2014/05/Ahlulbayt-TV.jpg",AHLULBAYT TV
 http://185.21.217.32:9099/shark/ahlulbayttv/chunks.m3u8?nimblesessionid=431420&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDE4IDk6MDg6NDEgUE0maGFzaF92YWx1ZT1KR0hQRnhFMzFqZjlrN1Bwa1lOQWt3PT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1,tvg-logo="http://1.bp.blogspot.com/-viPFu69LlKo/UbCm96Iw40I/AAAAAAAAFhs/n8DDpuRfWkE/s1600/TV_Alhijrah_Logo.jpg",AL-HIJRAH
+http://www.layarperak.tv/media/ahlive.m3u8
 
 #EXTINF:-1,CHANNEL 5 (OFF)
 
-#EXTINF:-1,(SG)-CHANNEL 8
+#EXTINF:-1,tvg-logo="https://i.ytimg.com/vi/HuPsA_N41Zk/maxresdefault.jpg",(SG)-CHANNEL 8
 https://tglch8h-i.akamaihd.net/hls/live/566550/pcweb/04.m3u8
 
 #EXTINF:-1,SURIA (OFF)
 
 #EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/BME18D9L6Jc/hqdefault.jpg",MALAYSIA:TV2
 http://stream4.1malaysiaiptv.com/mylive/smil:tv2_all.smil/chunklist_w253669747_b1000000_sleng.m3u8
-#EXTINF:-1,MALAYSIA:ASTRO AWANI
+#EXTINF:-1,tvg-logo="http://www.ejawatankosong.net/wp-content/uploads/2014/04/astro-awani-300x239.jpg",MALAYSIA:ASTRO AWANI
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8
-#EXTINF:-1,AL-HIJRAH
-http://www.layarperak.tv/media/ahlive.m3u8
 
 #EXTINF:-1,INDONESIA:SCTV 2
 http://live3.indostreamingtv.com/live/tv2/index.m3u8
