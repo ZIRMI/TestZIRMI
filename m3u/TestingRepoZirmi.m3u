@@ -1,5 +1,7 @@
 #EXTM3U size="medium"
 
+GET
+
 #EXTINF:-1,[B][COLOR blue]ZIRMI - ZAN[/COLOR][/B]
 http://wpc.55d6d.deltacdn.net/3055D6D/teb002/.m3u8
 
@@ -107,13 +109,13 @@ http://primetvmedia.com:10/live/Stallion/Stallion/67.ts
 #EXTINF:-1,MTV MUSIC
 http://185.21.217.54:8554/eagle/MTVMUSIC/chunks.m3u8?nimblesessionid=540285&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDE4IDc6MzU6MTcgUE0maGFzaF92YWx1ZT0rVm5Yd3ZaNDkzbWcxaXo1bnV2djJRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,OSN BOX OFFICE BOX 1 HD
-http://185.21.216.152:8554/charli/dash/osnboxoffice1/chunks.m3u8?nimblesessionid=120903&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDE4IDc6NDE6MjMgUE0maGFzaF92YWx1ZT1CaCs1QitiR2hUUzM1dHNqb1MzSWpBPT0mdmFsaWRtaW51dGVzPTI=
+http://185.21.216.152:8554/charli/dash/osnboxoffice1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDE4IDM6MjM6NDYgQU0maGFzaF92YWx1ZT1vVi9JNWpQS3dKbVRrMUFScE5MRStnPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,OSN BOX OFFICE BOX 3 HD
 http://primetvmedia.com:10/live/Stallion/Stallion/7474.ts
 #EXTINF:-1,OSN FIRST HBO HD
-http://185.21.216.152:8554/charli/dash/osnfirsthbo/chunks.m3u8?nimblesessionid=121336&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDE4IDc6NDQ6MjIgUE0maGFzaF92YWx1ZT1BMkRpNFN6enhnZjNTMkllc2NkZWNBPT0mdmFsaWRtaW51dGVzPTI=
+http://185.21.216.152:8554/charli/dash/osnfirsthbo/chunks.m3u8?nimblesessionid=166380&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDE4IDM6MjE6NDAgQU0maGFzaF92YWx1ZT05SHozek9jYkgyb0FMd2oyN0dHK0xRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,HBO HD
-http://185.21.217.29:9100/ape/hbohd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDE4IDg6NDc6NDkgUE0maGFzaF92YWx1ZT1RLzZYUzl3RTlLNGJSZnFUeVE5eEZnPT0mdmFsaWRtaW51dGVzPTI=
+http://212.83.183.94:8554/help/hboasia/chunks.m3u8?nimblesessionid=5281827&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDE4IDM6MjA6MjUgQU0maGFzaF92YWx1ZT1Tay9uakJIQjcyK0ttWmdGUEkzeS9BPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,OSN-MOVIES HD
 http://185.21.216.152:8554/charli/dash/osnmovies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDE4IDc6NDU6NTQgUE0maGFzaF92YWx1ZT00R2s3aHhudnpOVElBNXErcGI2SDR3PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,OSN MOVIES COMEDY HD
@@ -144,52 +146,51 @@ http://185.21.217.32:9099/dove/wb/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8x
 #EXTINF:-1,[B][COLOR cyan]~HINDI-(INDIAN)~[/COLOR][/B]
 http://clientportalpro.com:2500/live/h80qNAkK9D/IUogpfxJQo/5122.ts
 #EXTINF:-1,COLORS-TV HD
-http://185.21.217.29:9100/ape/colorshd/chunks.m3u8?nimblesessionid=448948&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDE4IDY6NTE6MTUgUE0maGFzaF92YWx1ZT1PY3o4SCtibGpHd3J0N1MySmd4dktBPT0mdmFsaWRtaW51dGVzPTI=
+http://212.83.183.94:8554/help/colorsasia/chunks.m3u8?nimblesessionid=5277425&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDE4IDE6MzU6MDYgQU0maGFzaF92YWx1ZT01MnE3T0psYlFZN2lDYlY0VUZOWkl3PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,MTV-BEATS
-http://185.21.216.167:8554/fox/mtvbeats/chunks.m3u8?nimblesessionid=527066&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDE4IDY6NTc6MTcgUE0maGFzaF92YWx1ZT1zampCdm5ZanZTejhJb0FoLzhPdzl3PT0mdmFsaWRtaW51dGVzPTI=
+http://185.21.216.167:8554/fox/mtvbeats/chunks.m3u8?nimblesessionid=575969&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDE4IDI6NTE6MDcgQU0maGFzaF92YWx1ZT1BeS9QcFg5Znp5NFpKc3F0cHRScVlRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,MTV-INDIA
-http://185.21.217.32:9099/dove/mtvin/chunks.m3u8?nimblesessionid=385111&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDE4IDY6NTk6NDcgUE0maGFzaF92YWx1ZT1pTjhBUElMZlBxc0JKNmFINW1rK2lRPT0mdmFsaWRtaW51dGVzPTI=
+http://185.21.217.32:9099/dove/mtvin/chunks.m3u8?nimblesessionid=498576&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDE4IDI6NTQ6MzUgQU0maGFzaF92YWx1ZT0wRTlwN2cvNW9sQ00veUlib09UdnFnPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,RISHTEY
-http://212.83.183.94:8554/help/rishteyasia/chunks.m3u8?nimblesessionid=5261454&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDE4IDc6MDE6MjEgUE0maGFzaF92YWx1ZT1HMnIwejA0MUVuTlF3cnR5b2c0aGVnPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1,RISHTEY CINE
-http://185.21.217.32:9099/dove/rishtaycine/chunks.m3u8?nimblesessionid=416260&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDE4IDg6MjU6MTAgUE0maGFzaF92YWx1ZT04Y1FoSVE0Y01xV2RWL0lkTkR6MXp3PT0mdmFsaWRtaW51dGVzPTI=
+http://212.83.183.94:8554/help/rishteyasia/chunks.m3u8?nimblesessionid=5280486&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDE4IDI6NTU6NDggQU0maGFzaF92YWx1ZT1KaXJHd2dqM0pTQmF5TnlWUndZRUpBPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1,RISHTEY CINEPLEX
+http://185.21.217.32:9099/dove/rishtaycine/chunks.m3u8?nimblesessionid=499253&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDE4IDI6NTg6MzUgQU0maGFzaF92YWx1ZT1UOTJHTEF6YWh5L2x6bHZGL0plSjlRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,SONY-PAL
-http://185.21.217.32:9099/dove/sonypal/chunks.m3u8?nimblesessionid=387369&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDE4IDc6MDU6NDkgUE0maGFzaF92YWx1ZT1VbzgrUjdFWS9EWWlsbkIrekR5NWpRPT0mdmFsaWRtaW51dGVzPTI=
+http://185.21.217.32:9099/dove/sonypal/chunks.m3u8?nimblesessionid=499519&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDE4IDI6NTk6NTkgQU0maGFzaF92YWx1ZT1CSFdKTzJRVHhnU0k2aHdpTXhYS1JBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,SONY MAX HD
-http://185.21.216.167:8554/fox/sonymaxhd/chunks.m3u8?nimblesessionid=543090&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDE4IDg6Mjc6MDAgUE0maGFzaF92YWx1ZT1wTzJzeUV0T2tDSUR0UlU1Nk51d05BPT0mdmFsaWRtaW51dGVzPTI=
+http://185.21.216.167:8554/fox/sonymaxhd/chunks.m3u8?nimblesessionid=576754&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDE4IDM6MDE6MTUgQU0maGFzaF92YWx1ZT1pVlF2ZnJRRjFQdDZ6R1BrNXZUTDVRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,SONY MAX 2 HD
-http://185.21.217.32:9099/dove/sonymax2/chunks.m3u8?nimblesessionid=417181&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDE4IDg6Mjg6MTggUE0maGFzaF92YWx1ZT1EU0ZBY25jalNFVFRPb0EzQ3h2ZDJRPT0mdmFsaWRtaW51dGVzPTI=
+http://185.21.217.32:9099/dove/sonymax2/chunks.m3u8?nimblesessionid=499933&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDE4IDM6MDI6MDAgQU0maGFzaF92YWx1ZT1VMFZVbmlaTFZ1SzRJVUNkUzdVWGJnPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,SONY PIX HD
-http://185.21.217.32:9099/dove/sonypix/chunks.m3u8?nimblesessionid=417552&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDE4IDg6Mjk6MzQgUE0maGFzaF92YWx1ZT1yQ1dTcWhJaGh0OTFGaDVkUGJQL3NBPT0mdmFsaWRtaW51dGVzPTI=
+http://185.21.217.32:9099/dove/sonypix/chunks.m3u8?nimblesessionid=500316&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDE4IDM6MDQ6MDUgQU0maGFzaF92YWx1ZT1pbmgzZDE0Yk95T0dhYUVtb1hML21RPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,SONY-SAB
-http://185.21.216.167:8554/fox/sabtv/chunks.m3u8?nimblesessionid=528859&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDE4IDc6MDc6MDkgUE0maGFzaF92YWx1ZT0zQXNiK1lkT3M4TkVXMEJlSE15aXJBPT0mdmFsaWRtaW51dGVzPTI=
+http://185.21.216.167:8554/fox/sabtv/chunks.m3u8?nimblesessionid=577083&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDE4IDM6MDU6MDIgQU0maGFzaF92YWx1ZT1OTGl4NVlEeUhpY1hQbmJUdHhYM3hRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,SONY-TV
-http://185.21.217.29:9100/five/various/SONYTVHD/chunks.m3u8?nimblesessionid=458443&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDE4IDc6MDg6MjggUE0maGFzaF92YWx1ZT15YWVleWlxMVJkV0YyOTRLUXhoajlRPT0mdmFsaWRtaW51dGVzPTI=
+http://185.21.217.29:9100/five/various/SONYTVHD/chunks.m3u8?nimblesessionid=629128&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDE4IDM6MDU6NDYgQU0maGFzaF92YWx1ZT0xV2RaZ0h5ZVBRbEJYaStYZDRBTE53PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,STAR-PLUS
-http://185.21.217.32:9099/shark/starplushd/chunks.m3u8?nimblesessionid=389381&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDE4IDc6MTA6MzcgUE0maGFzaF92YWx1ZT1tK3J2RFE2b3ZhYmZqZUUrbVc4ZXZnPT0mdmFsaWRtaW51dGVzPTI=
+http://185.21.217.32:9099/shark/starplushd/chunks.m3u8?nimblesessionid=500785&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDE4IDM6MDY6MzcgQU0maGFzaF92YWx1ZT1QUTBVVEVzd2NRZVpzWEwvdy8ySkJBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,STAR GOLD SELECT HD
-http://212.83.182.86:9095/rabbit/stargoldselect/chunks.m3u8?nimblesessionid=30869261&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDE4IDg6MzE6NTUgUE0maGFzaF92YWx1ZT16ejlIMzQ1RllnWEFDSUJwZjhxdUZBPT0mdmFsaWRtaW51dGVzPTI=
+http://212.83.182.86:9095/rabbit/stargoldselect/chunks.m3u8?nimblesessionid=30898726&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDE4IDM6MDc6MzggQU0maGFzaF92YWx1ZT1RbnpnYXFPUCtRbnMrbUJ5ZzJwYVVnPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,STAR-BHARAT
-http://185.21.217.29:9100/ape/starbharathd/chunks.m3u8?nimblesessionid=460496&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDE4IDc6MTI6MTUgUE0maGFzaF92YWx1ZT00YkJub0hPeEVXWlp5UWltY0srQkZ3PT0mdmFsaWRtaW51dGVzPTI=
+http://212.83.183.94:8554/help/starbharatasia/chunks.m3u8?nimblesessionid=5281136&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDE4IDM6MDg6NTUgQU0maGFzaF92YWx1ZT14Y3pYUFl4UWo4RmNlV1pwTGlDL1J3PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,WOW CINEMA
-http://185.21.217.29:9100/ape/wowcinema/chunks.m3u8?nimblesessionid=509182&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDE4IDg6Mzc6MjIgUE0maGFzaF92YWx1ZT13VUs2UGxtZjVxN3JOeWVjSnRMVkdRPT0mdmFsaWRtaW51dGVzPTI=
+http://185.21.217.29:9100/ape/wowcinema/chunks.m3u8?nimblesessionid=630730&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDE4IDM6MTA6MjMgQU0maGFzaF92YWx1ZT1LTlpYL3VQNnp3VCs4SGprdWN0V0t3PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,ZEE-TV
-http://212.83.183.94/help/zeetvasia/chunks.m3u8?nimblesessionid=5262649&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDE4IDc6MTg6MTggUE0maGFzaF92YWx1ZT1FcUdyVGJNd2hJSktJN1ZuUHk2RmR3PT0mdmFsaWRtaW51dGVzPTI=
+http://212.83.183.94:8554/help/zeetvasia/chunks.m3u8?nimblesessionid=5281265&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDE4IDM6MTE6MDUgQU0maGFzaF92YWx1ZT1iaFJud3cwbC8vUzNHeElTNXBVYXJBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,ZEE-ACTION
-http://185.21.216.167:8554/fox/ZEETVACTION/chunks.m3u8?nimblesessionid=544806&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDE4IDg6Mzg6NTEgUE0maGFzaF92YWx1ZT1NRkZ5bVlpbkY0UHhzeHFMb3dYZk5RPT0mdmFsaWRtaW51dGVzPTI=
+http://185.21.216.167:8554/fox/ZEETVACTION/chunks.m3u8?nimblesessionid=577661&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDE4IDM6MTE6NDcgQU0maGFzaF92YWx1ZT02Q2VRQzV1MUV0R2xMSlFqYVJuTEtBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,ZEE-CINEMA HD
-http://185.21.216.188:8554/gorilla/zeecinemahd/chunks.m3u8?nimblesessionid=136771&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDE4IDg6NDA6MTUgUE0maGFzaF92YWx1ZT1UVUQ2WUFlb3ZxeHVKRkF0TytFTzBBPT0mdmFsaWRtaW51dGVzPTI=
+http://185.21.216.188:8554/gorilla/zeecinemahd/chunks.m3u8?nimblesessionid=159450&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDE4IDM6MTI6MzQgQU0maGFzaF92YWx1ZT1zSjhwcWtUOWNUWFVuTWIrcHM0RmtnPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,ZEE-CLASSIC
-http://185.21.216.167:8554/fox/ZEECLASSIC/chunks.m3u8?nimblesessionid=545433&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDE4IDg6NDM6MDMgUE0maGFzaF92YWx1ZT1vTEVnOFJaT2FYdllhaVF2NlZpajhBPT0mdmFsaWRtaW51dGVzPTI=
+http://185.21.216.167:8554/fox/ZEECLASSIC/chunks.m3u8?nimblesessionid=577780&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDE4IDM6MTM6MDYgQU0maGFzaF92YWx1ZT1sNWM2aFVQc2crTDZ2dCtkYkJSUElBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,A MOVIES-HINDI
-http://185.21.216.188:8554/gorilla/amovieshindi/chunks.m3u8?nimblesessionid=134552&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDE4IDg6MTY6MjAgUE0maGFzaF92YWx1ZT1MQUxOV2xkYnlNQnFiMUExaUlid3lnPT0mdmFsaWRtaW51dGVzPTI=
+http://185.21.216.188:8554/gorilla/amovieshindi/chunks.m3u8?nimblesessionid=159542&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDE4IDM6MTQ6MDQgQU0maGFzaF92YWx1ZT16aEtxVHRqS0tmTGlnbmVVZGtVQnZRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,B4U-MOVIES
-http://185.21.217.32:9099/dove/b4umovies/chunks.m3u8?nimblesessionid=414207&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDE4IDg6MTg6NTcgUE0maGFzaF92YWx1ZT1yVFFXNTVWL2M0KzAvRGtaaUVxc2JRPT0mdmFsaWRtaW51dGVzPTI=
+http://185.21.217.32:9099/dove/b4umovies/chunks.m3u8?nimblesessionid=502522&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDE4IDM6MTQ6MzUgQU0maGFzaF92YWx1ZT12aU5MRDBqc0ZPYmFYVDU2Zk12RUNBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,BOLLYWOOD BLOCKBUSTER
-http://218.248.64.74:1935/live/blockbusterday1_webA.sdp/chunklist_w2069581424.m3u8?token=3580015544
+http://218.248.64.74:1935/live/blockbusterday1_webA.sdp/playlist.m3u8?token=6302944118
 #EXTINF:-1,HOUSEFULL ACTION
-http://185.21.217.48:8554/alpha/punjabi/housefullaction/chunks.m3u8?nimblesessionid=2152965&wmsAuthSign=c2VydmVyX3RpbWU9MS8xMy8yMDE4IDg6MjI6MDMgUE0maGFzaF92YWx1ZT1yYUV2dFlhd3ZBeU9TVUdVZFdRS1Z3PT0mdmFsaWRtaW51dGVzPTI=
-
+http://185.21.217.48:8554/alpha/punjabi/housefullaction/chunks.m3u8?nimblesessionid=2226026&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDE4IDM6MTY6MDcgQU0maGFzaF92YWx1ZT1UaHBkMlVWS21rVStMU3hmU2MxTUlnPT0mdmFsaWRtaW51dGVzPTI=
 
 
 #EXTINF:-1,[B][COLOR cyan]~CHINESE~[/COLOR][/B]
