@@ -9,7 +9,7 @@ http://www.layarperak.tv/media/tv1my.m3u8
 http://www.layarperak.tv/media/tv2my.m3u8 
 
 #EXTINF:-1 group-title="MY/SG" tvg-logo="https://freeview.github.io/logos/tv3.png",TV3 
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHYF9hBGWo4BtOyt1-gXrm4s)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah 
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHdwU77_L2FfWmsrfgRswrWY)/dm/3/x6qp6ou/s/live-4.m3u8
 
 #EXTINF:-1 group-title="MY/SG" tvg-logo="https://freeview.github.io/logos/ntv7.png",NTV7 
 https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRsWUB0puSaTn7xUwZqm5G0)/dm/3/x6qp6ou/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg
