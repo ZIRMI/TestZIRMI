@@ -1,18 +1,48 @@
-#EXTM3U size="medium"
+#EXTM3U
 
-#EXTM3U 
+#EXT-X-VERSION:3
 
-#EXTINF:-1 group-title="MY/SG" tvg-logo="https://freeview.github.io/logos/tv1.png",TV1 
-http://www.layarperak.tv/media/tv1my.m3u8 
+#EXT-X-TARGETDURATION:11
 
-#EXTINF:-1 group-title="MY/SG" tvg-logo="https://freeview.github.io/logos/tv2.png",TV2 
-http://www.layarperak.tv/media/tv2my.m3u8 
+#EXT-X-MEDIA-SEQUENCE:480
 
-#EXTINF:-1 group-title="MY/SG" tvg-logo="https://freeview.github.io/logos/tv3.png",TV3 
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHdwU77_L2FfWmsrfgRswrWY)/dm/3/x6qp6ou/s/live-4.m3u8
+#EXTINF:10.000000,
 
-#EXTINF:-1 group-title="MY/SG" tvg-logo="https://freeview.github.io/logos/ntv7.png",NTV7 
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRsWUB0puSaTn7xUwZqm5G0)/dm/3/x6qp6ou/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg
+1603461715-480.ts
 
-#EXTINF:-1 group-title="MY/SG" tvg-logo="https://3.bp.blogspot.com/-PVGk3k9GxkU/WqTGtJ3daHI/AAAAAAAAHJQ/5qrZfNuI93E7Rfxwh3uOHlgdHhtsNl8FACLcBGAs/s1600/tv9.png",TV9
-https://stream-02.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08tTv8Pk-a6JBOrAwXULJOTc)/dm/3/x7a7rf7/s/live-4.m3u8
+#EXTINF:10.000000,
+
+1603461725-481.ts
+
+#EXTINF:8.000000,
+
+1603461735-482.ts
+
+#EXTINF:10.000000,
+
+1603461743-483.ts
+
+#EXTINF:10.000000,
+
+1603461753-484.ts
+
+#EXTINF:10.000000,
+
+1603461763-485.ts
+
+#EXTINF:10.000000,
+
+1603461773-486.ts
+
+#EXTINF:9.480000,
+
+1603461783-487.ts
+
+#EXTINF:10.520000,
+
+1603461793-488.ts
+
+#EXTINF:10.000000,
+
+1603461804-489.ts
+
